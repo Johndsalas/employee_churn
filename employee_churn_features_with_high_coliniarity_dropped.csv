@@ -1,0 +1,1471 @@
+Age,Attrition,BusinessTravel,Education,EducationField,EnvironmentSatisfaction,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MonthlyIncome,OverTime,RelationshipSatisfaction,StockOptionLevel,WorkLifeBalance,YearsAtCompany
+41,Yes,Travel_Rarely,some_college,Life Sciences,meduim,high,two,Sales Executive,very_high,5993,Yes,low,zero,bad,6
+49,No,Travel_Frequently,no_college,Life Sciences,high,meduim,two,Research Scientist,meduim,5130,No,very_high,one,better,10
+37,Yes,Travel_Rarely,some_college,Other,very_high,meduim,one,Laboratory Technician,high,2090,Yes,meduim,zero,better,0
+33,No,Travel_Frequently,masters_degree,Life Sciences,very_high,high,one,Research Scientist,high,2909,Yes,high,zero,better,8
+27,No,Travel_Rarely,no_college,Medical,low,high,one,Laboratory Technician,meduim,3468,No,very_high,one,better,2
+32,No,Travel_Frequently,some_college,Life Sciences,very_high,high,one,Laboratory Technician,very_high,3068,No,high,zero,good,7
+59,No,Travel_Rarely,bachelors_degree,Medical,high,very_high,one,Laboratory Technician,low,2670,Yes,low,three,good,1
+30,No,Travel_Rarely,no_college,Life Sciences,very_high,high,one,Laboratory Technician,high,2693,No,meduim,one,better,1
+38,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,meduim,three,Manufacturing Director,high,9526,No,meduim,zero,better,9
+36,No,Travel_Rarely,bachelors_degree,Medical,high,high,two,Healthcare Representative,high,5237,No,meduim,two,good,7
+35,No,Travel_Rarely,bachelors_degree,Medical,low,very_high,one,Laboratory Technician,meduim,2426,No,high,one,better,5
+29,No,Travel_Rarely,some_college,Life Sciences,very_high,meduim,two,Laboratory Technician,high,4193,Yes,very_high,zero,better,9
+31,No,Travel_Rarely,no_college,Life Sciences,low,high,one,Research Scientist,high,2911,No,very_high,one,good,5
+34,No,Travel_Rarely,some_college,Medical,meduim,high,one,Laboratory Technician,very_high,2661,No,high,one,better,2
+28,Yes,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,one,Laboratory Technician,high,2028,Yes,meduim,zero,better,4
+29,No,Travel_Rarely,masters_degree,Life Sciences,meduim,very_high,three,Manufacturing Director,low,9980,No,high,one,better,10
+32,No,Travel_Rarely,some_college,Life Sciences,low,very_high,one,Research Scientist,meduim,3298,Yes,very_high,two,good,6
+22,No,Non-Travel,some_college,Medical,very_high,very_high,one,Laboratory Technician,very_high,2935,Yes,meduim,two,good,1
+53,No,Travel_Rarely,masters_degree,Life Sciences,low,meduim,four,Manager,very_high,15427,No,high,zero,better,25
+38,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Research Scientist,very_high,3944,Yes,high,zero,better,3
+24,No,Non-Travel,some_college,Other,low,very_high,two,Manufacturing Director,high,4011,No,very_high,one,good,4
+36,Yes,Travel_Rarely,masters_degree,Life Sciences,high,meduim,one,Sales Representative,low,3407,No,meduim,zero,better,5
+34,No,Travel_Rarely,masters_degree,Life Sciences,low,high,three,Research Director,meduim,11994,No,high,zero,better,12
+21,No,Travel_Rarely,some_college,Life Sciences,high,high,one,Research Scientist,very_high,1232,No,very_high,zero,better,0
+34,Yes,Travel_Rarely,no_college,Medical,meduim,high,one,Research Scientist,low,2960,No,high,zero,better,4
+53,No,Travel_Rarely,bachelors_degree,Other,high,high,five,Manager,high,19094,No,very_high,one,good,14
+32,Yes,Travel_Frequently,no_college,Life Sciences,meduim,low,one,Research Scientist,low,3919,Yes,meduim,zero,better,10
+42,No,Travel_Rarely,masters_degree,Marketing,high,high,two,Sales Executive,meduim,6825,No,very_high,one,better,9
+44,No,Travel_Rarely,masters_degree,Medical,low,meduim,three,Healthcare Representative,very_high,10248,No,very_high,one,better,22
+46,No,Travel_Rarely,masters_degree,Marketing,meduim,high,five,Manager,low,18947,No,very_high,zero,good,2
+33,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Laboratory Technician,very_high,2496,No,very_high,zero,better,1
+44,No,Travel_Rarely,masters_degree,Other,very_high,high,two,Healthcare Representative,very_high,6465,Yes,very_high,zero,best,4
+30,No,Travel_Rarely,some_college,Medical,very_high,meduim,one,Laboratory Technician,high,2206,No,low,zero,better,10
+39,Yes,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,two,Sales Representative,very_high,2086,No,high,one,best,1
+24,Yes,Travel_Rarely,bachelors_degree,Medical,meduim,high,one,Research Scientist,very_high,2293,Yes,low,one,good,2
+43,No,Travel_Rarely,some_college,Medical,very_high,very_high,one,Research Scientist,high,2645,No,very_high,two,good,5
+50,Yes,Travel_Rarely,some_college,Marketing,low,meduim,one,Sales Representative,high,2683,Yes,high,zero,better,3
+35,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,one,Sales Representative,very_high,2014,No,low,zero,better,2
+36,No,Travel_Rarely,masters_degree,Life Sciences,meduim,meduim,one,Research Scientist,low,3419,Yes,very_high,one,best,1
+33,No,Travel_Frequently,bachelors_degree,Life Sciences,high,very_high,two,Sales Executive,low,5376,No,low,two,better,5
+35,No,Travel_Rarely,some_college,Other,high,high,one,Laboratory Technician,very_high,1951,No,high,one,better,1
+27,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,one,Laboratory Technician,low,2341,No,very_high,one,better,1
+26,Yes,Travel_Rarely,bachelors_degree,Life Sciences,low,low,one,Laboratory Technician,high,2293,No,high,zero,good,1
+27,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,three,Sales Executive,high,8726,No,very_high,zero,better,9
+30,No,Travel_Frequently,some_college,Medical,high,high,two,Laboratory Technician,very_high,4011,No,very_high,zero,better,12
+41,Yes,Travel_Rarely,bachelors_degree,Technical Degree,meduim,high,five,Research Director,high,19545,No,very_high,zero,better,22
+34,No,Non-Travel,masters_degree,Marketing,meduim,high,two,Sales Executive,high,4568,No,high,zero,better,9
+37,No,Travel_Rarely,some_college,Life Sciences,meduim,high,one,Research Scientist,meduim,3022,No,low,zero,better,1
+46,No,Travel_Frequently,masters_degree,Marketing,low,high,two,Sales Executive,very_high,5772,Yes,high,zero,better,9
+35,No,Travel_Rarely,no_college,Life Sciences,very_high,very_high,one,Laboratory Technician,very_high,2269,No,very_high,zero,better,1
+48,Yes,Travel_Rarely,some_college,Life Sciences,low,meduim,three,Laboratory Technician,high,5381,Yes,very_high,zero,better,1
+28,Yes,Travel_Rarely,masters_degree,Technical Degree,high,high,one,Laboratory Technician,high,3441,Yes,high,zero,good,2
+44,No,Travel_Rarely,Doctorate,Marketing,meduim,high,two,Sales Executive,low,5454,Yes,high,one,good,4
+35,No,Non-Travel,some_college,Medical,high,meduim,three,Healthcare Representative,low,9884,Yes,high,one,better,4
+26,No,Travel_Rarely,bachelors_degree,Marketing,high,meduim,two,Sales Executive,very_high,4157,Yes,high,one,good,2
+33,No,Travel_Frequently,some_college,Life Sciences,low,high,three,Research Director,very_high,13458,Yes,high,zero,better,15
+35,No,Travel_Frequently,Doctorate,Life Sciences,meduim,high,three,Sales Executive,low,9069,No,very_high,one,good,9
+35,No,Travel_Rarely,masters_degree,Medical,high,high,one,Laboratory Technician,low,4014,Yes,high,one,better,2
+31,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,two,Laboratory Technician,very_high,5915,No,very_high,one,good,7
+37,No,Travel_Rarely,masters_degree,Life Sciences,low,meduim,two,Manufacturing Director,high,5993,No,high,one,best,7
+32,No,Travel_Rarely,bachelors_degree,Medical,low,high,two,Manufacturing Director,very_high,6162,Yes,meduim,one,better,9
+38,No,Travel_Frequently,Doctorate,Life Sciences,very_high,high,two,Laboratory Technician,very_high,2406,No,very_high,zero,better,10
+50,No,Travel_Rarely,some_college,Medical,meduim,meduim,five,Research Director,high,18740,Yes,very_high,one,good,27
+59,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,three,Sales Executive,low,7637,No,very_high,zero,good,21
+36,No,Travel_Rarely,bachelors_degree,Technical Degree,high,high,three,Healthcare Representative,high,10096,No,meduim,three,better,17
+55,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,four,Manager,high,14756,Yes,high,three,better,5
+36,No,Travel_Frequently,bachelors_degree,Life Sciences,meduim,meduim,two,Manufacturing Director,meduim,6499,No,high,zero,better,6
+45,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,three,Research Scientist,low,9724,No,high,one,better,1
+35,No,Travel_Frequently,bachelors_degree,Medical,meduim,high,one,Research Scientist,low,2194,No,very_high,one,good,3
+36,Yes,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,one,Research Scientist,high,3388,Yes,low,one,good,1
+59,No,Travel_Frequently,no_college,Life Sciences,low,meduim,two,Sales Executive,high,5473,No,very_high,zero,good,4
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Research Scientist,meduim,2703,No,very_high,one,better,5
+31,No,Travel_Rarely,masters_degree,Medical,high,high,one,Research Scientist,meduim,2501,No,meduim,zero,better,1
+32,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,two,Research Scientist,meduim,6220,No,meduim,two,better,10
+36,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,very_high,one,Laboratory Technician,very_high,3038,No,meduim,zero,better,1
+31,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Manufacturing Director,very_high,4424,No,very_high,zero,better,11
+35,No,Travel_Rarely,masters_degree,Marketing,high,meduim,two,Sales Executive,low,4312,No,meduim,zero,better,15
+45,No,Travel_Rarely,masters_degree,Other,very_high,high,three,Research Director,low,13245,Yes,meduim,zero,best,0
+37,No,Travel_Rarely,masters_degree,Medical,low,high,three,Research Director,high,13664,No,low,zero,best,5
+46,No,Travel_Rarely,some_college,Medical,meduim,high,two,Human Resources,meduim,5021,Yes,very_high,one,better,4
+30,No,Travel_Rarely,no_college,Life Sciences,very_high,meduim,two,Laboratory Technician,very_high,5126,Yes,high,two,good,10
+35,No,Travel_Rarely,bachelors_degree,Medical,meduim,meduim,one,Research Scientist,high,2859,No,low,zero,better,6
+55,No,Travel_Rarely,some_college,Life Sciences,low,high,three,Sales Executive,very_high,10239,No,very_high,one,better,1
+38,No,Non-Travel,bachelors_degree,Medical,meduim,low,two,Research Scientist,very_high,5329,Yes,very_high,three,better,13
+34,No,Travel_Rarely,some_college,Medical,low,high,two,Manufacturing Director,meduim,4325,No,high,zero,better,5
+56,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,low,three,Manufacturing Director,very_high,7260,No,low,zero,good,6
+23,No,Travel_Rarely,no_college,Technical Degree,high,high,one,Sales Representative,low,2322,No,high,one,better,0
+51,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,one,Laboratory Technician,very_high,2075,No,meduim,two,better,4
+30,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,two,Healthcare Representative,very_high,4152,No,low,three,better,11
+46,Yes,Travel_Rarely,some_college,Medical,high,meduim,three,Sales Executive,very_high,9619,No,very_high,zero,better,9
+40,No,Travel_Frequently,masters_degree,Life Sciences,high,meduim,four,Healthcare Representative,meduim,13503,No,very_high,one,good,22
+51,No,Travel_Rarely,masters_degree,Marketing,high,high,two,Sales Executive,very_high,5441,Yes,very_high,zero,bad,10
+30,No,Travel_Rarely,some_college,Medical,high,meduim,two,Sales Executive,meduim,5209,Yes,meduim,three,good,11
+46,No,Travel_Frequently,bachelors_degree,Medical,high,meduim,three,Healthcare Representative,low,10673,Yes,high,one,good,10
+32,No,Travel_Rarely,masters_degree,Medical,meduim,high,two,Sales Executive,high,5010,No,low,zero,better,11
+54,No,Travel_Rarely,masters_degree,Technical Degree,low,high,three,Research Director,high,13549,No,low,one,bad,4
+24,No,Travel_Rarely,some_college,Other,low,high,two,Sales Executive,high,4999,No,low,one,good,3
+28,No,Non-Travel,bachelors_degree,Medical,meduim,high,two,Sales Executive,high,4221,No,meduim,zero,best,5
+58,No,Travel_Rarely,masters_degree,Medical,very_high,high,four,Sales Executive,high,13872,No,high,zero,good,37
+44,No,Non-Travel,bachelors_degree,Medical,meduim,high,two,Laboratory Technician,meduim,2042,No,high,one,best,3
+37,Yes,Travel_Rarely,masters_degree,Human Resources,high,high,one,Human Resources,low,2073,Yes,very_high,zero,better,3
+32,No,Travel_Rarely,no_college,Life Sciences,very_high,high,one,Research Scientist,low,2956,No,very_high,zero,better,1
+20,Yes,Travel_Frequently,bachelors_degree,Life Sciences,very_high,meduim,one,Laboratory Technician,very_high,2926,Yes,meduim,zero,better,1
+34,No,Travel_Rarely,masters_degree,Other,low,high,two,Research Scientist,high,4809,No,high,zero,better,16
+37,No,Non-Travel,some_college,Life Sciences,high,meduim,two,Healthcare Representative,very_high,5163,No,very_high,one,best,1
+59,No,Non-Travel,masters_degree,Human Resources,high,meduim,five,Manager,very_high,18844,No,very_high,one,better,3
+50,No,Travel_Frequently,bachelors_degree,Life Sciences,low,high,five,Research Director,meduim,18172,Yes,low,zero,good,8
+25,Yes,Travel_Rarely,bachelors_degree,Marketing,high,meduim,two,Sales Executive,high,5744,Yes,very_high,zero,better,6
+25,No,Travel_Rarely,no_college,Medical,very_high,meduim,one,Research Scientist,very_high,2889,No,high,two,better,2
+22,No,Travel_Rarely,bachelors_degree,Medical,meduim,high,one,Laboratory Technician,very_high,2871,No,high,zero,better,0
+51,No,Travel_Frequently,masters_degree,Medical,low,meduim,three,Healthcare Representative,low,7484,No,high,zero,good,13
+34,Yes,Travel_Frequently,bachelors_degree,Life Sciences,low,low,two,Laboratory Technician,high,6074,Yes,very_high,zero,better,9
+54,No,Non-Travel,bachelors_degree,Human Resources,very_high,very_high,four,Manager,very_high,17328,Yes,high,zero,better,5
+24,No,Travel_Rarely,no_college,Life Sciences,meduim,high,one,Laboratory Technician,high,2774,No,high,one,better,5
+34,No,Travel_Rarely,masters_degree,Life Sciences,high,meduim,two,Research Scientist,meduim,4505,No,high,one,better,1
+37,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,three,Sales Executive,very_high,7428,No,low,zero,better,5
+34,No,Travel_Rarely,bachelors_degree,Medical,high,meduim,three,Manager,low,11631,No,very_high,zero,better,11
+36,No,Travel_Frequently,some_college,Technical Degree,meduim,high,three,Sales Executive,very_high,9738,No,high,one,better,9
+36,No,Travel_Rarely,some_college,Life Sciences,low,high,one,Laboratory Technician,very_high,2835,No,low,one,better,1
+43,No,Travel_Frequently,some_college,Life Sciences,high,high,four,Manager,very_high,16959,Yes,very_high,two,best,25
+30,No,Travel_Frequently,bachelors_degree,Life Sciences,low,low,one,Research Scientist,high,2613,No,high,three,good,10
+33,No,Non-Travel,some_college,Marketing,high,high,two,Sales Executive,meduim,6146,No,low,one,best,7
+56,Yes,Travel_Rarely,masters_degree,Life Sciences,meduim,high,one,Research Scientist,meduim,4963,Yes,low,three,better,5
+51,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,five,Research Director,high,19537,No,high,zero,better,20
+31,Yes,Travel_Rarely,masters_degree,Life Sciences,meduim,low,two,Sales Executive,high,6172,Yes,meduim,zero,good,7
+26,No,Travel_Rarely,bachelors_degree,Other,high,meduim,one,Research Scientist,meduim,2368,No,high,zero,good,5
+58,Yes,Travel_Rarely,masters_degree,Medical,very_high,high,three,Healthcare Representative,very_high,10312,No,very_high,one,good,40
+19,Yes,Travel_Rarely,no_college,Marketing,very_high,high,one,Sales Representative,high,1675,Yes,very_high,zero,good,0
+22,No,Travel_Rarely,no_college,Technical Degree,high,high,one,Laboratory Technician,very_high,2523,No,high,one,better,2
+49,No,Travel_Rarely,masters_degree,Medical,high,high,two,Manufacturing Director,low,6567,No,high,zero,good,15
+43,No,Travel_Frequently,bachelors_degree,Medical,meduim,very_high,one,Research Scientist,high,4739,No,very_high,zero,better,3
+50,No,Travel_Frequently,bachelors_degree,Marketing,high,high,three,Sales Executive,very_high,9208,No,very_high,zero,better,2
+31,Yes,Travel_Rarely,bachelors_degree,Life Sciences,meduim,low,two,Sales Executive,high,4559,Yes,high,one,better,2
+41,No,Travel_Rarely,no_college,Life Sciences,high,high,three,Sales Executive,high,8189,Yes,high,one,better,9
+26,No,Travel_Rarely,no_college,Life Sciences,high,high,one,Human Resources,high,2942,No,very_high,one,better,8
+36,No,Travel_Rarely,some_college,Medical,meduim,high,two,Manufacturing Director,meduim,4941,No,very_high,two,better,3
+51,Yes,Travel_Frequently,masters_degree,Life Sciences,low,low,three,Manufacturing Director,very_high,10650,No,very_high,zero,better,4
+39,No,Travel_Rarely,masters_degree,Life Sciences,very_high,meduim,two,Sales Executive,high,5902,No,high,one,best,15
+25,No,Travel_Rarely,bachelors_degree,Life Sciences,low,meduim,two,Sales Executive,high,8639,No,very_high,zero,better,2
+30,No,Travel_Rarely,bachelors_degree,Human Resources,high,high,two,Human Resources,very_high,6347,Yes,very_high,zero,bad,11
+32,Yes,Travel_Rarely,bachelors_degree,Medical,low,high,one,Laboratory Technician,low,4200,No,low,zero,best,5
+45,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Research Scientist,very_high,3452,No,meduim,zero,good,6
+38,No,Travel_Rarely,Doctorate,Technical Degree,very_high,high,two,Research Scientist,high,4317,Yes,meduim,zero,better,3
+30,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Research Scientist,high,2632,No,high,zero,good,5
+32,No,Travel_Frequently,some_college,Medical,very_high,low,two,Sales Executive,very_high,4668,No,very_high,three,best,8
+30,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,one,Research Scientist,low,3204,No,very_high,one,better,3
+30,No,Travel_Rarely,no_college,Medical,meduim,meduim,one,Laboratory Technician,very_high,2720,No,very_high,zero,better,5
+41,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,meduim,four,Manager,low,17181,No,meduim,one,good,7
+41,No,Travel_Rarely,masters_degree,Life Sciences,high,high,one,Laboratory Technician,low,2238,No,very_high,one,better,5
+19,No,Travel_Rarely,no_college,Medical,meduim,high,one,Laboratory Technician,meduim,1483,No,very_high,zero,better,1
+40,No,Travel_Frequently,bachelors_degree,Medical,meduim,high,two,Research Scientist,meduim,5605,No,low,one,better,20
+35,No,Travel_Rarely,Doctorate,Marketing,high,high,three,Sales Executive,meduim,7295,No,low,two,better,10
+53,No,Travel_Rarely,some_college,Marketing,meduim,high,two,Sales Representative,high,2306,Yes,very_high,one,bad,7
+45,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,two,Laboratory Technician,meduim,2348,No,high,one,bad,17
+32,No,Travel_Frequently,bachelors_degree,Marketing,meduim,high,three,Sales Executive,very_high,8998,No,very_high,zero,better,9
+29,No,Non-Travel,no_college,Technical Degree,very_high,high,two,Manufacturing Director,high,4319,No,low,one,better,10
+51,No,Travel_Rarely,masters_degree,Medical,meduim,meduim,two,Manufacturing Director,high,6132,No,high,zero,better,1
+58,No,Travel_Rarely,bachelors_degree,Medical,meduim,meduim,one,Research Scientist,meduim,3346,Yes,meduim,one,good,1
+40,No,Travel_Rarely,masters_degree,Marketing,high,meduim,three,Sales Executive,very_high,10855,No,low,one,good,12
+34,No,Travel_Frequently,masters_degree,Marketing,high,high,one,Sales Representative,high,2231,No,very_high,one,better,4
+22,No,Travel_Rarely,no_college,Medical,high,high,one,Research Scientist,very_high,2323,No,low,two,better,2
+27,No,Non-Travel,bachelors_degree,Medical,very_high,high,one,Research Scientist,meduim,2024,No,very_high,one,bad,2
+28,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Research Scientist,very_high,2713,No,high,one,bad,5
+57,No,Travel_Rarely,some_college,Life Sciences,high,very_high,three,Healthcare Representative,very_high,9439,Yes,meduim,one,bad,5
+27,No,Non-Travel,bachelors_degree,Medical,high,meduim,one,Research Scientist,high,2566,Yes,very_high,one,good,1
+50,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,five,Manager,meduim,19926,No,meduim,zero,better,5
+41,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Research Scientist,high,2451,No,low,one,better,9
+30,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,three,Sales Executive,very_high,9419,No,high,one,better,10
+38,No,Travel_Rarely,masters_degree,Life Sciences,low,meduim,two,Sales Executive,very_high,8686,No,high,zero,best,8
+32,No,Travel_Rarely,Doctorate,Life Sciences,high,high,one,Research Scientist,high,3038,No,low,zero,better,5
+27,No,Travel_Rarely,bachelors_degree,Technical Degree,high,high,one,Research Scientist,meduim,3058,Yes,very_high,one,good,5
+19,Yes,Travel_Frequently,no_college,Technical Degree,high,low,one,Sales Representative,low,2325,No,low,zero,best,0
+36,No,Travel_Frequently,some_college,Medical,very_high,high,one,Laboratory Technician,meduim,2088,No,high,zero,good,8
+30,No,Non-Travel,bachelors_degree,Medical,high,high,two,Laboratory Technician,low,3072,No,high,two,better,12
+45,No,Travel_Rarely,some_college,Life Sciences,high,high,two,Sales Executive,low,5006,Yes,low,one,best,5
+56,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Research Scientist,low,4257,Yes,high,one,better,2
+33,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Research Scientist,very_high,2500,No,low,zero,best,3
+19,Yes,Travel_Rarely,bachelors_degree,Life Sciences,meduim,meduim,one,Laboratory Technician,very_high,1102,No,high,zero,good,1
+46,No,Travel_Rarely,some_college,Marketing,meduim,high,three,Sales Executive,low,10453,No,high,three,better,24
+38,No,Travel_Rarely,some_college,Life Sciences,high,high,one,Laboratory Technician,very_high,2288,No,high,zero,better,2
+31,No,Travel_Rarely,no_college,Medical,high,high,one,Research Scientist,very_high,3929,Yes,high,one,better,4
+34,No,Travel_Rarely,some_college,Medical,very_high,high,one,Research Scientist,meduim,2311,No,very_high,zero,better,3
+41,Yes,Travel_Rarely,some_college,Marketing,meduim,high,one,Sales Representative,meduim,3140,Yes,very_high,zero,good,4
+50,No,Travel_Rarely,bachelors_degree,Medical,high,meduim,one,Laboratory Technician,high,3690,No,very_high,one,good,3
+53,No,Travel_Rarely,some_college,Medical,very_high,very_high,two,Manufacturing Director,low,4450,No,high,two,better,4
+33,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,one,Research Scientist,meduim,2756,No,very_high,one,better,8
+40,No,Travel_Rarely,no_college,Medical,very_high,high,five,Manager,high,19033,No,meduim,one,better,20
+55,No,Travel_Rarely,masters_degree,Medical,high,very_high,five,Research Director,meduim,18722,No,very_high,zero,better,24
+34,No,Travel_Frequently,no_college,Life Sciences,very_high,meduim,two,Manufacturing Director,high,9547,No,high,zero,good,10
+51,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,four,Healthcare Representative,meduim,13734,No,high,zero,better,7
+52,No,Travel_Rarely,masters_degree,Life Sciences,high,meduim,five,Manager,high,19999,No,low,one,better,33
+27,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,one,Research Scientist,meduim,2279,No,very_high,zero,good,7
+35,Yes,Travel_Rarely,some_college,Life Sciences,meduim,meduim,two,Manufacturing Director,high,5916,Yes,low,zero,better,1
+43,No,Non-Travel,bachelors_degree,Medical,very_high,very_high,one,Research Scientist,very_high,2089,No,very_high,three,best,5
+45,No,Non-Travel,some_college,Medical,low,meduim,four,Manager,very_high,16792,No,very_high,one,better,20
+37,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,very_high,one,Research Scientist,low,3564,Yes,low,one,good,8
+35,No,Travel_Frequently,bachelors_degree,Medical,meduim,high,two,Laboratory Technician,meduim,4425,No,very_high,zero,better,6
+42,No,Non-Travel,some_college,Medical,high,high,two,Manufacturing Director,high,5265,No,meduim,one,better,5
+38,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,two,Manufacturing Director,high,6553,No,meduim,zero,better,1
+38,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,two,Manufacturing Director,very_high,6261,No,low,one,bad,7
+27,No,Travel_Frequently,no_college,Technical Degree,high,meduim,two,Manufacturing Director,low,4298,No,high,one,better,2
+49,No,Non-Travel,masters_degree,Life Sciences,very_high,high,two,Manufacturing Director,very_high,6804,Yes,low,two,better,7
+34,No,Travel_Frequently,masters_degree,Medical,very_high,high,one,Research Scientist,high,3815,Yes,very_high,one,best,5
+40,No,Travel_Rarely,some_college,Medical,high,high,two,Laboratory Technician,very_high,2741,Yes,high,one,best,7
+38,Yes,Travel_Rarely,no_college,Medical,meduim,high,two,Healthcare Representative,low,6673,Yes,meduim,zero,better,1
+29,Yes,Travel_Rarely,bachelors_degree,Marketing,meduim,high,three,Sales Executive,very_high,7639,No,very_high,three,good,10
+22,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,very_high,one,Research Scientist,meduim,2328,Yes,low,one,good,4
+36,No,Travel_Frequently,no_college,Medical,meduim,high,one,Laboratory Technician,very_high,2153,No,low,zero,better,8
+40,No,Non-Travel,Doctorate,Life Sciences,very_high,meduim,two,Healthcare Representative,very_high,4876,No,very_high,one,bad,3
+46,No,Travel_Rarely,masters_degree,Medical,very_high,high,three,Healthcare Representative,low,9396,No,high,one,better,4
+32,Yes,Travel_Rarely,masters_degree,Medical,very_high,low,three,Sales Executive,very_high,10400,No,high,zero,good,14
+30,No,Non-Travel,no_college,Life Sciences,high,meduim,three,Manufacturing Director,high,8474,No,high,zero,better,11
+27,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,two,Sales Executive,high,9981,No,very_high,zero,better,7
+51,No,Travel_Rarely,masters_degree,Life Sciences,meduim,meduim,three,Research Director,meduim,12490,No,very_high,two,bad,10
+30,Yes,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,one,Research Scientist,low,2657,Yes,high,zero,better,5
+41,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,three,Manager,very_high,13591,Yes,high,zero,better,1
+30,Yes,Travel_Frequently,masters_degree,Marketing,high,meduim,two,Sales Executive,low,6696,No,high,zero,good,6
+29,Yes,Travel_Rarely,bachelors_degree,Technical Degree,high,high,one,Research Scientist,high,2058,No,very_high,zero,good,6
+45,No,Non-Travel,bachelors_degree,Medical,very_high,meduim,three,Sales Executive,very_high,8865,No,very_high,zero,better,19
+54,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,two,Sales Executive,low,5940,No,very_high,one,better,6
+36,No,Travel_Rarely,some_college,Life Sciences,very_high,high,two,Laboratory Technician,meduim,5914,No,very_high,zero,best,13
+33,No,Travel_Rarely,masters_degree,Medical,high,meduim,one,Research Scientist,meduim,2622,No,very_high,zero,better,3
+37,No,Travel_Frequently,bachelors_degree,Other,meduim,high,three,Research Director,very_high,12185,Yes,high,three,better,10
+38,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,three,Sales Executive,high,10609,No,high,two,good,16
+31,No,Non-Travel,masters_degree,Medical,high,low,two,Manufacturing Director,high,4345,No,very_high,one,better,5
+59,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,one,Research Scientist,very_high,2177,No,low,one,better,1
+37,No,Travel_Frequently,masters_degree,Marketing,low,high,one,Sales Representative,very_high,2793,No,high,one,better,9
+29,No,Travel_Frequently,no_college,Medical,meduim,high,three,Sales Executive,very_high,7918,No,very_high,one,better,11
+35,No,Travel_Frequently,bachelors_degree,Marketing,high,high,three,Sales Executive,high,8789,No,low,zero,best,10
+29,Yes,Travel_Rarely,no_college,Medical,high,meduim,one,Research Scientist,very_high,2389,Yes,high,zero,good,4
+52,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,one,Laboratory Technician,very_high,3212,No,meduim,zero,good,2
+42,No,Travel_Rarely,some_college,Technical Degree,high,high,five,Manager,very_high,19232,No,very_high,zero,better,22
+59,No,Travel_Rarely,some_college,Medical,meduim,high,one,Human Resources,high,2267,No,very_high,zero,good,2
+50,No,Travel_Rarely,masters_degree,Medical,very_high,high,five,Manager,very_high,19517,No,high,one,good,7
+33,Yes,Travel_Rarely,bachelors_degree,Medical,high,high,one,Laboratory Technician,very_high,2436,Yes,high,one,bad,5
+43,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,four,Manager,very_high,16064,Yes,high,one,better,17
+33,Yes,Travel_Rarely,some_college,Life Sciences,low,high,one,Laboratory Technician,low,2707,No,low,zero,best,9
+52,No,Non-Travel,masters_degree,Life Sciences,low,meduim,five,Manager,high,19068,Yes,very_high,zero,best,33
+32,No,Travel_Rarely,some_college,Life Sciences,high,high,one,Sales Representative,meduim,3931,No,low,one,better,4
+32,Yes,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,one,Laboratory Technician,high,3730,Yes,very_high,zero,bad,3
+39,No,Travel_Rarely,masters_degree,Medical,high,high,one,Laboratory Technician,high,2232,No,high,three,better,3
+32,No,Non-Travel,masters_degree,Marketing,high,high,two,Sales Executive,very_high,4465,No,low,zero,better,3
+41,No,Travel_Rarely,some_college,Life Sciences,high,high,two,Research Scientist,low,3072,No,low,two,good,1
+40,No,Travel_Rarely,some_college,Technical Degree,low,high,two,Research Scientist,very_high,3319,No,low,two,better,9
+45,No,Travel_Rarely,bachelors_degree,Other,high,very_high,five,Manager,very_high,19202,No,high,one,better,24
+31,No,Travel_Frequently,masters_degree,Medical,meduim,high,three,Research Director,high,13675,No,low,one,better,2
+33,No,Travel_Rarely,masters_degree,Life Sciences,high,meduim,one,Research Scientist,very_high,2911,No,high,one,good,2
+34,No,Travel_Rarely,masters_degree,Life Sciences,very_high,meduim,two,Manufacturing Director,low,5957,No,meduim,one,better,11
+37,No,Travel_Rarely,some_college,Medical,high,meduim,one,Research Scientist,low,3920,No,low,one,good,3
+45,No,Travel_Frequently,masters_degree,Life Sciences,low,very_high,two,Manufacturing Director,high,6434,No,very_high,one,better,3
+37,Yes,Travel_Frequently,bachelors_degree,Medical,low,high,three,Manufacturing Director,high,10048,No,meduim,two,better,1
+39,No,Travel_Frequently,masters_degree,Technical Degree,high,high,three,Healthcare Representative,high,10938,No,very_high,zero,better,19
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Research Scientist,very_high,2340,No,low,zero,better,6
+42,No,Travel_Rarely,some_college,Life Sciences,very_high,very_high,two,Research Scientist,low,6545,Yes,high,zero,better,3
+29,No,Travel_Rarely,some_college,Marketing,very_high,high,two,Sales Executive,very_high,6931,No,very_high,one,better,3
+25,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,two,Manufacturing Director,high,4898,No,very_high,two,better,4
+42,No,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,one,Laboratory Technician,low,2593,Yes,high,one,better,9
+40,No,Travel_Rarely,some_college,Medical,low,high,five,Research Director,high,19436,No,very_high,one,better,21
+51,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Research Scientist,very_high,2723,No,meduim,zero,good,1
+31,Yes,Travel_Frequently,some_college,Medical,high,meduim,one,Laboratory Technician,meduim,3479,No,meduim,zero,best,5
+32,No,Travel_Frequently,bachelors_degree,Life Sciences,meduim,very_high,one,Laboratory Technician,meduim,2794,No,high,zero,bad,5
+38,No,Non-Travel,some_college,Life Sciences,very_high,meduim,two,Sales Executive,very_high,5249,No,very_high,one,better,8
+32,No,Travel_Rarely,no_college,Technical Degree,very_high,meduim,two,Laboratory Technician,low,2176,No,very_high,zero,better,6
+46,No,Travel_Rarely,bachelors_degree,Technical Degree,high,low,four,Manager,meduim,16872,Yes,meduim,one,good,7
+28,Yes,Travel_Rarely,masters_degree,Life Sciences,low,high,one,Laboratory Technician,high,3485,No,high,zero,bad,0
+29,No,Travel_Rarely,bachelors_degree,Medical,low,meduim,two,Sales Executive,meduim,6644,No,meduim,two,better,0
+31,No,Travel_Rarely,bachelors_degree,Medical,meduim,meduim,two,Healthcare Representative,very_high,5582,No,meduim,one,better,9
+25,No,Non-Travel,some_college,Life Sciences,meduim,very_high,two,Healthcare Representative,low,4000,No,very_high,two,better,6
+45,No,Travel_Rarely,some_college,Medical,high,high,four,Healthcare Representative,very_high,13496,Yes,meduim,zero,better,20
+36,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Laboratory Technician,very_high,3210,No,high,one,better,15
+55,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,five,Manager,low,19045,Yes,high,zero,better,36
+47,Yes,Non-Travel,masters_degree,Life Sciences,low,high,three,Manager,meduim,11849,Yes,very_high,one,good,10
+28,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,one,Research Scientist,very_high,2070,No,very_high,one,good,5
+37,No,Travel_Rarely,masters_degree,Medical,high,high,two,Sales Executive,very_high,6502,No,meduim,one,best,5
+21,No,Travel_Rarely,some_college,Medical,very_high,meduim,one,Research Scientist,high,3230,No,low,zero,best,3
+37,No,Non-Travel,masters_degree,Medical,low,high,three,Research Director,very_high,13603,Yes,low,two,better,5
+35,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,very_high,three,Manager,meduim,11996,No,meduim,one,good,7
+38,No,Travel_Rarely,some_college,Medical,low,very_high,two,Sales Executive,low,5605,Yes,high,one,better,8
+26,No,Travel_Frequently,bachelors_degree,Life Sciences,high,high,two,Manufacturing Director,meduim,6397,No,low,one,bad,6
+50,No,Travel_Rarely,no_college,Life Sciences,low,high,five,Research Director,meduim,19144,No,low,two,good,10
+53,No,Travel_Rarely,masters_degree,Medical,high,high,four,Research Director,high,17584,Yes,very_high,three,good,5
+42,No,Travel_Rarely,no_college,Life Sciences,meduim,high,two,Sales Executive,high,4907,No,high,zero,better,20
+29,No,Travel_Frequently,some_college,Life Sciences,meduim,high,two,Sales Executive,very_high,4554,No,low,zero,good,10
+55,No,Travel_Rarely,some_college,Technical Degree,meduim,high,two,Laboratory Technician,very_high,5415,Yes,very_high,one,better,10
+26,No,Travel_Frequently,some_college,Medical,low,high,two,Healthcare Representative,low,4741,Yes,high,one,better,5
+37,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Research Scientist,very_high,2115,No,meduim,zero,better,17
+44,Yes,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,one,Laboratory Technician,high,3161,Yes,very_high,one,bad,1
+38,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,two,Healthcare Representative,very_high,5745,No,meduim,one,better,2
+26,Yes,Travel_Rarely,masters_degree,Medical,low,high,one,Laboratory Technician,meduim,2373,Yes,very_high,one,better,3
+28,No,Travel_Rarely,some_college,Life Sciences,very_high,high,one,Research Scientist,very_high,3310,No,very_high,zero,better,5
+49,No,Travel_Frequently,masters_degree,Life Sciences,high,high,five,Research Director,low,18665,Yes,very_high,zero,better,3
+36,No,Travel_Rarely,bachelors_degree,Technical Degree,high,high,two,Research Scientist,meduim,4485,No,very_high,zero,better,8
+31,No,Travel_Frequently,bachelors_degree,Marketing,very_high,high,one,Sales Representative,meduim,2789,No,high,one,good,2
+26,Yes,Travel_Rarely,masters_degree,Marketing,very_high,meduim,two,Sales Executive,very_high,5828,Yes,meduim,zero,better,8
+37,No,Travel_Frequently,bachelors_degree,Medical,meduim,high,one,Research Scientist,very_high,2326,Yes,high,three,good,4
+42,No,Travel_Frequently,bachelors_degree,Marketing,high,high,four,Sales Executive,meduim,13525,No,very_high,one,best,20
+18,Yes,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Laboratory Technician,high,1420,No,high,zero,better,0
+35,No,Travel_Rarely,bachelors_degree,Marketing,high,high,three,Sales Executive,meduim,8020,No,high,two,good,11
+36,No,Travel_Frequently,masters_degree,Life Sciences,high,very_high,one,Laboratory Technician,very_high,3688,No,very_high,two,better,1
+51,No,Travel_Rarely,bachelors_degree,Medical,very_high,low,two,Manufacturing Director,meduim,5482,No,very_high,one,better,4
+41,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,four,Manager,meduim,16015,No,meduim,zero,better,22
+18,No,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,one,Sales Representative,high,1200,No,low,zero,better,0
+28,No,Travel_Rarely,some_college,Medical,meduim,very_high,two,Healthcare Representative,low,5661,No,high,zero,better,8
+31,No,Travel_Rarely,bachelors_degree,Technical Degree,meduim,very_high,two,Sales Executive,very_high,6929,No,meduim,one,good,8
+39,No,Travel_Rarely,bachelors_degree,Medical,high,very_high,three,Healthcare Representative,very_high,9613,No,low,three,good,18
+36,No,Non-Travel,masters_degree,Life Sciences,meduim,high,two,Laboratory Technician,meduim,5674,No,high,one,better,9
+32,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,two,Sales Executive,high,5484,No,high,one,good,13
+38,No,Travel_Rarely,some_college,Life Sciences,low,meduim,three,Research Director,meduim,12061,No,high,one,better,10
+58,No,Non-Travel,masters_degree,Life Sciences,very_high,low,two,Healthcare Representative,high,5660,Yes,very_high,one,better,5
+31,No,Travel_Rarely,masters_degree,Technical Degree,high,high,one,Research Scientist,very_high,4821,Yes,high,one,better,5
+31,No,Travel_Rarely,bachelors_degree,Human Resources,low,meduim,two,Human Resources,low,6410,No,very_high,zero,better,2
+45,No,Travel_Frequently,bachelors_degree,Life Sciences,low,high,three,Laboratory Technician,low,5210,No,low,one,better,24
+31,No,Travel_Rarely,masters_degree,Life Sciences,high,high,one,Research Scientist,very_high,2695,Yes,meduim,one,bad,2
+33,No,Travel_Frequently,masters_degree,Life Sciences,very_high,high,three,Manager,meduim,11878,No,meduim,two,better,10
+39,No,Travel_Rarely,no_college,Medical,high,high,four,Manager,low,17068,Yes,very_high,zero,better,21
+43,No,Travel_Frequently,masters_degree,Life Sciences,high,high,one,Laboratory Technician,very_high,2455,No,low,zero,better,8
+49,No,Travel_Rarely,some_college,Technical Degree,high,meduim,four,Healthcare Representative,high,13964,Yes,very_high,zero,better,7
+52,Yes,Travel_Rarely,masters_degree,Medical,high,meduim,two,Research Scientist,meduim,4941,No,low,zero,good,8
+27,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Research Scientist,meduim,2478,Yes,meduim,zero,good,4
+32,No,Travel_Rarely,some_college,Technical Degree,high,meduim,two,Sales Executive,meduim,5228,Yes,very_high,zero,better,13
+27,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,two,Sales Executive,high,4478,Yes,low,zero,better,5
+31,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,two,Sales Executive,very_high,7547,No,very_high,three,better,7
+32,No,Travel_Rarely,masters_degree,Medical,low,very_high,two,Research Scientist,very_high,5055,No,high,zero,good,7
+28,Yes,Travel_Rarely,masters_degree,Medical,low,low,one,Research Scientist,very_high,3464,Yes,very_high,zero,good,3
+30,No,Travel_Rarely,some_college,Medical,very_high,high,two,Research Scientist,very_high,5775,No,very_high,two,better,10
+31,No,Travel_Frequently,some_college,Life Sciences,high,meduim,three,Manufacturing Director,high,8943,No,low,one,better,10
+39,No,Travel_Frequently,some_college,Medical,high,meduim,five,Manager,very_high,19272,No,low,one,better,21
+39,Yes,Travel_Rarely,some_college,Medical,very_high,high,two,Sales Executive,high,5238,Yes,low,zero,good,1
+33,No,Travel_Frequently,bachelors_degree,Marketing,meduim,meduim,two,Sales Executive,very_high,4682,No,high,zero,good,7
+47,No,Travel_Rarely,Doctorate,Life Sciences,very_high,high,five,Research Director,high,18300,No,meduim,one,better,3
+43,No,Travel_Frequently,masters_degree,Life Sciences,high,meduim,two,Laboratory Technician,high,5257,No,meduim,one,best,9
+27,No,Non-Travel,no_college,Marketing,high,high,two,Sales Executive,meduim,6349,Yes,very_high,one,better,5
+54,No,Travel_Frequently,masters_degree,Life Sciences,very_high,high,two,Research Scientist,high,4869,No,very_high,zero,good,4
+43,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,three,Healthcare Representative,low,9985,No,low,one,good,1
+45,No,Travel_Rarely,masters_degree,Other,very_high,high,two,Research Scientist,very_high,3697,No,low,two,better,10
+40,No,Travel_Rarely,some_college,Medical,meduim,low,two,Sales Executive,very_high,7457,Yes,high,three,good,4
+29,Yes,Travel_Rarely,masters_degree,Other,meduim,low,one,Laboratory Technician,low,2119,Yes,very_high,zero,good,7
+29,No,Travel_Rarely,Doctorate,Other,meduim,meduim,one,Laboratory Technician,very_high,3983,No,high,zero,better,3
+30,No,Travel_Rarely,bachelors_degree,Marketing,very_high,meduim,two,Sales Executive,high,6118,No,high,three,better,10
+27,No,Travel_Rarely,masters_degree,Marketing,meduim,high,two,Sales Executive,meduim,6214,No,low,one,better,8
+37,No,Travel_Rarely,some_college,Medical,very_high,high,two,Manufacturing Director,very_high,6347,No,high,two,good,6
+38,No,Travel_Rarely,some_college,Life Sciences,high,meduim,three,Research Director,very_high,11510,Yes,meduim,one,better,11
+31,No,Travel_Rarely,masters_degree,Medical,high,high,three,Manufacturing Director,very_high,7143,Yes,high,zero,good,11
+29,No,Travel_Rarely,no_college,Marketing,very_high,meduim,two,Sales Executive,meduim,8268,Yes,low,two,better,7
+35,No,Travel_Rarely,masters_degree,Technical Degree,high,high,three,Manufacturing Director,meduim,8095,No,very_high,zero,better,16
+23,No,Travel_Rarely,no_college,Life Sciences,high,high,one,Research Scientist,very_high,2904,No,high,two,good,4
+41,No,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,two,Manufacturing Director,meduim,6032,Yes,very_high,zero,better,5
+47,No,Travel_Frequently,no_college,Medical,meduim,high,two,Sales Representative,high,2976,No,low,zero,better,0
+42,No,Travel_Rarely,Doctorate,Life Sciences,low,high,four,Research Director,very_high,15992,No,meduim,zero,better,1
+29,No,Non-Travel,bachelors_degree,Life Sciences,very_high,high,two,Sales Executive,high,4649,No,low,one,good,4
+42,No,Travel_Rarely,no_college,Technical Degree,high,high,one,Human Resources,high,2696,Yes,high,one,better,3
+32,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Laboratory Technician,meduim,2370,No,high,one,better,8
+48,No,Travel_Rarely,no_college,Medical,low,high,three,Manager,high,12504,No,meduim,one,bad,0
+37,No,Travel_Rarely,bachelors_degree,Medical,high,very_high,two,Research Scientist,low,5974,Yes,low,two,better,7
+30,No,Non-Travel,some_college,Technical Degree,very_high,high,two,Sales Executive,high,4736,Yes,meduim,one,best,2
+26,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,two,Sales Executive,high,5296,No,meduim,one,better,8
+42,No,Travel_Rarely,masters_degree,Other,low,meduim,two,Healthcare Representative,very_high,6781,No,meduim,zero,better,1
+21,Yes,Travel_Frequently,no_college,Technical Degree,low,meduim,one,Sales Representative,meduim,2174,Yes,high,zero,better,3
+36,No,Non-Travel,Doctorate,Medical,very_high,high,two,Sales Executive,very_high,6653,No,meduim,zero,better,1
+36,No,Travel_Frequently,masters_degree,Medical,low,meduim,three,Sales Executive,very_high,9699,No,low,one,better,13
+57,No,Travel_Rarely,masters_degree,Medical,very_high,high,two,Healthcare Representative,high,6755,No,high,zero,better,3
+40,No,Travel_Rarely,masters_degree,Life Sciences,very_high,very_high,one,Laboratory Technician,high,2213,Yes,high,one,better,7
+21,No,Non-Travel,some_college,Medical,low,high,one,Sales Representative,very_high,2610,No,high,zero,good,3
+33,Yes,Travel_Rarely,bachelors_degree,Marketing,very_high,high,one,Sales Representative,high,2851,Yes,meduim,zero,better,1
+37,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Laboratory Technician,low,3452,No,meduim,one,better,5
+46,No,Non-Travel,masters_degree,Medical,high,high,two,Manufacturing Director,high,5258,No,high,zero,best,1
+41,Yes,Travel_Frequently,bachelors_degree,Marketing,low,high,two,Sales Executive,meduim,9355,No,high,zero,better,8
+50,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,meduim,three,Healthcare Representative,very_high,10496,No,very_high,zero,better,4
+40,Yes,Travel_Rarely,some_college,Marketing,high,meduim,two,Sales Executive,high,6380,Yes,low,two,better,6
+31,No,Travel_Rarely,masters_degree,Life Sciences,high,meduim,one,Research Scientist,meduim,2657,Yes,very_high,zero,better,2
+21,Yes,Travel_Rarely,bachelors_degree,Life Sciences,high,very_high,one,Sales Representative,meduim,2716,No,very_high,zero,better,1
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Research Scientist,very_high,2201,No,very_high,zero,better,3
+35,No,Travel_Rarely,masters_degree,Life Sciences,high,meduim,two,Healthcare Representative,meduim,6540,No,high,zero,better,1
+27,No,Travel_Rarely,some_college,Medical,very_high,high,one,Laboratory Technician,meduim,3816,No,meduim,one,better,5
+28,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,two,Sales Executive,very_high,5253,No,very_high,zero,better,7
+49,No,Travel_Rarely,bachelors_degree,Other,meduim,meduim,three,Healthcare Representative,high,10965,No,high,zero,better,5
+51,No,Travel_Rarely,some_college,Life Sciences,high,high,two,Sales Executive,very_high,4936,No,high,one,good,7
+36,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Research Scientist,high,2543,No,meduim,one,better,2
+34,Yes,Non-Travel,bachelors_degree,Marketing,low,very_high,two,Sales Executive,very_high,5304,Yes,meduim,zero,good,5
+55,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,four,Manager,very_high,16659,Yes,high,zero,better,5
+24,No,Travel_Rarely,masters_degree,Marketing,very_high,high,two,Sales Executive,high,4260,Yes,very_high,one,best,5
+30,No,Travel_Rarely,no_college,Technical Degree,high,high,one,Sales Representative,meduim,2476,No,low,one,better,1
+26,Yes,Travel_Frequently,no_college,Technical Degree,high,high,one,Research Scientist,low,3102,No,high,zero,better,6
+22,No,Travel_Rarely,bachelors_degree,Medical,low,high,one,Research Scientist,meduim,2244,No,very_high,one,better,2
+36,No,Travel_Rarely,some_college,Medical,meduim,meduim,three,Sales Executive,high,7596,No,meduim,two,better,10
+30,Yes,Travel_Frequently,bachelors_degree,Technical Degree,high,high,one,Research Scientist,very_high,2285,Yes,high,zero,better,1
+37,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Laboratory Technician,low,3034,No,high,one,good,18
+40,No,Travel_Rarely,some_college,Marketing,very_high,high,two,Sales Executive,meduim,5715,No,high,two,better,5
+42,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,one,Laboratory Technician,low,2576,No,meduim,one,better,5
+37,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Manufacturing Director,meduim,4197,Yes,very_high,zero,good,1
+43,No,Travel_Rarely,bachelors_degree,Life Sciences,low,meduim,four,Research Director,meduim,14336,No,high,one,better,25
+40,No,Travel_Rarely,bachelors_degree,Medical,meduim,meduim,two,Laboratory Technician,high,3448,No,meduim,one,better,1
+54,No,Travel_Rarely,some_college,Medical,low,high,five,Research Director,low,19406,No,high,one,good,4
+34,No,Non-Travel,masters_degree,Marketing,high,high,two,Sales Executive,high,6538,No,low,one,better,3
+31,No,Travel_Rarely,some_college,Medical,meduim,high,two,Manufacturing Director,low,4306,No,meduim,one,bad,13
+43,No,Travel_Frequently,bachelors_degree,Medical,very_high,high,one,Laboratory Technician,very_high,2258,No,low,one,better,3
+43,No,Travel_Rarely,masters_degree,Other,high,high,two,Healthcare Representative,high,4522,Yes,very_high,zero,better,5
+25,No,Travel_Rarely,some_college,Life Sciences,meduim,meduim,two,Sales Executive,very_high,4487,Yes,meduim,zero,better,5
+37,No,Non-Travel,Doctorate,Medical,meduim,high,two,Research Scientist,high,4449,Yes,low,two,better,13
+31,No,Travel_Rarely,some_college,Life Sciences,very_high,meduim,one,Laboratory Technician,low,2218,No,high,one,better,4
+39,No,Travel_Frequently,no_college,Life Sciences,meduim,high,five,Manager,high,19197,Yes,high,one,better,21
+56,No,Travel_Frequently,bachelors_degree,Life Sciences,high,very_high,four,Sales Executive,low,13212,No,very_high,three,good,7
+30,No,Travel_Rarely,bachelors_degree,Technical Degree,meduim,high,two,Sales Executive,high,6577,No,meduim,zero,better,5
+41,No,Travel_Rarely,bachelors_degree,Marketing,meduim,very_high,three,Sales Executive,low,8392,No,high,one,better,10
+28,No,Travel_Rarely,some_college,Medical,high,high,two,Laboratory Technician,low,4558,No,very_high,one,better,10
+25,Yes,Travel_Rarely,bachelors_degree,Medical,low,high,one,Laboratory Technician,low,4031,No,high,one,better,2
+52,No,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,three,Manufacturing Director,high,7969,Yes,high,zero,better,5
+45,No,Travel_Rarely,some_college,Life Sciences,low,high,one,Research Scientist,very_high,2654,No,very_high,two,good,2
+52,No,Travel_Rarely,some_college,Life Sciences,very_high,high,four,Manager,very_high,16555,No,very_high,zero,bad,5
+42,No,Travel_Frequently,some_college,Life Sciences,low,high,two,Research Scientist,high,4556,No,meduim,one,better,5
+30,No,Travel_Rarely,bachelors_degree,Life Sciences,high,low,two,Manufacturing Director,very_high,6091,No,high,zero,better,5
+60,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,five,Manager,low,19566,No,very_high,zero,bad,29
+46,No,Travel_Rarely,bachelors_degree,Medical,high,high,two,Manufacturing Director,high,4810,No,high,one,good,10
+42,No,Travel_Frequently,masters_degree,Technical Degree,very_high,meduim,two,Healthcare Representative,very_high,4523,No,very_high,three,best,6
+24,Yes,Travel_Rarely,no_college,Technical Degree,low,high,one,Sales Representative,meduim,3202,Yes,meduim,zero,better,5
+34,Yes,Travel_Frequently,some_college,Marketing,very_high,low,one,Sales Representative,high,2351,No,very_high,one,good,2
+38,No,Travel_Frequently,some_college,Life Sciences,very_high,high,one,Laboratory Technician,very_high,1702,Yes,high,one,better,1
+40,No,Travel_Rarely,masters_degree,Life Sciences,high,high,five,Manager,high,18041,No,very_high,zero,better,20
+26,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Research Scientist,very_high,2886,No,meduim,two,bad,3
+30,No,Non-Travel,bachelors_degree,Life Sciences,high,high,one,Laboratory Technician,very_high,2097,No,high,one,bad,5
+29,No,Travel_Rarely,masters_degree,Medical,meduim,meduim,three,Research Director,high,11935,No,high,zero,better,10
+29,Yes,Travel_Rarely,Doctorate,Technical Degree,high,meduim,one,Research Scientist,meduim,2546,No,meduim,zero,best,2
+19,Yes,Travel_Rarely,some_college,Technical Degree,low,meduim,one,Human Resources,very_high,2564,No,high,zero,best,1
+30,No,Non-Travel,masters_degree,Other,high,high,three,Sales Executive,low,8412,No,high,zero,better,9
+57,No,Travel_Rarely,bachelors_degree,Marketing,low,meduim,four,Manager,very_high,14118,No,high,one,good,1
+50,No,Travel_Rarely,masters_degree,Life Sciences,meduim,meduim,four,Manager,high,17046,No,meduim,one,better,27
+30,No,Non-Travel,bachelors_degree,Medical,high,high,one,Laboratory Technician,very_high,2564,No,high,zero,good,11
+60,No,Travel_Frequently,bachelors_degree,Marketing,high,meduim,three,Sales Executive,low,10266,No,very_high,zero,best,18
+47,No,Travel_Rarely,some_college,Medical,low,high,two,Manufacturing Director,very_high,5070,No,high,three,better,5
+46,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,four,Research Director,high,17861,No,high,zero,bad,3
+35,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,low,one,Laboratory Technician,high,4230,No,high,zero,better,5
+54,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Laboratory Technician,high,3780,No,high,zero,better,1
+34,No,Travel_Rarely,masters_degree,Life Sciences,very_high,meduim,one,Research Scientist,high,2768,No,high,one,better,7
+46,No,Travel_Rarely,bachelors_degree,Marketing,high,meduim,three,Sales Executive,very_high,9071,Yes,high,one,better,3
+31,No,Travel_Rarely,no_college,Life Sciences,high,high,three,Manufacturing Director,meduim,10648,No,very_high,one,best,13
+33,Yes,Travel_Rarely,no_college,Medical,meduim,high,three,Manager,high,13610,Yes,very_high,zero,best,7
+33,Yes,Travel_Rarely,no_college,Medical,low,low,one,Laboratory Technician,very_high,3408,No,low,three,better,4
+30,No,Travel_Rarely,no_college,Marketing,very_high,high,one,Sales Representative,meduim,2983,No,low,zero,better,3
+35,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,three,Healthcare Representative,high,7632,Yes,high,zero,better,8
+31,Yes,Travel_Frequently,bachelors_degree,Life Sciences,low,high,three,Healthcare Representative,high,9824,No,low,zero,better,1
+34,Yes,Travel_Frequently,bachelors_degree,Human Resources,meduim,high,three,Human Resources,low,9950,Yes,high,three,better,3
+42,No,Travel_Frequently,some_college,Other,meduim,high,one,Laboratory Technician,high,2093,No,very_high,one,better,2
+36,No,Non-Travel,masters_degree,Medical,meduim,high,three,Sales Executive,very_high,9980,No,very_high,zero,good,10
+22,Yes,Travel_Frequently,no_college,Technical Degree,high,meduim,one,Laboratory Technician,high,3894,No,high,zero,better,2
+48,No,Travel_Rarely,Doctorate,Marketing,meduim,high,two,Sales Executive,very_high,4051,No,low,one,better,9
+55,No,Travel_Rarely,Doctorate,Life Sciences,low,high,four,Manager,meduim,16835,No,very_high,zero,better,10
+41,No,Non-Travel,some_college,Life Sciences,very_high,high,two,Sales Executive,very_high,6230,No,very_high,zero,better,14
+35,No,Travel_Rarely,bachelors_degree,Marketing,meduim,high,two,Sales Executive,high,4717,No,high,zero,better,11
+40,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,four,Manufacturing Director,high,13237,No,high,zero,better,20
+39,No,Travel_Frequently,no_college,Life Sciences,high,high,one,Laboratory Technician,high,3755,No,low,one,better,8
+31,No,Travel_Rarely,no_college,Life Sciences,meduim,high,two,Sales Executive,very_high,6582,Yes,high,zero,best,6
+42,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,three,Manufacturing Director,low,7406,Yes,very_high,one,good,10
+45,No,Travel_Rarely,bachelors_degree,Other,very_high,high,two,Sales Executive,meduim,4805,No,meduim,one,best,8
+26,Yes,Travel_Frequently,masters_degree,Life Sciences,meduim,high,one,Human Resources,high,2741,Yes,meduim,one,good,7
+29,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,two,Manufacturing Director,very_high,4262,No,meduim,two,best,3
+33,No,Travel_Rarely,Doctorate,Medical,low,very_high,four,Research Director,high,16184,No,high,one,better,6
+31,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,three,Manager,very_high,11557,No,high,one,good,5
+18,Yes,Travel_Frequently,bachelors_degree,Marketing,meduim,high,one,Sales Representative,meduim,1878,Yes,very_high,zero,better,0
+40,No,Non-Travel,bachelors_degree,Other,high,low,three,Sales Executive,low,10932,No,high,one,better,1
+41,No,Non-Travel,masters_degree,Other,low,meduim,two,Healthcare Representative,high,6811,Yes,low,zero,better,8
+26,No,Travel_Rarely,some_college,Medical,low,high,two,Sales Executive,high,4306,No,low,two,better,0
+35,No,Travel_Rarely,bachelors_degree,Medical,low,high,two,Sales Executive,high,4859,No,very_high,zero,better,5
+34,No,Travel_Rarely,masters_degree,Life Sciences,very_high,very_high,two,Sales Executive,very_high,5337,No,very_high,zero,better,10
+26,Yes,Travel_Rarely,bachelors_degree,Technical Degree,high,low,one,Laboratory Technician,very_high,2340,Yes,meduim,zero,bad,1
+37,No,Travel_Rarely,bachelors_degree,Technical Degree,meduim,high,three,Manufacturing Director,very_high,7491,No,very_high,zero,best,6
+46,No,Travel_Frequently,no_college,Medical,low,high,three,Healthcare Representative,high,10527,No,very_high,zero,good,2
+41,No,Travel_Rarely,Doctorate,Life Sciences,meduim,high,four,Manager,low,16595,No,meduim,one,better,18
+37,No,Non-Travel,masters_degree,Medical,low,high,three,Sales Executive,meduim,8834,No,very_high,one,better,9
+52,No,Travel_Rarely,some_college,Technical Degree,very_high,high,two,Research Scientist,low,5577,Yes,meduim,two,better,10
+32,Yes,Non-Travel,masters_degree,Other,very_high,very_high,two,Sales Executive,high,4707,No,very_high,zero,better,4
+24,No,Travel_Frequently,bachelors_degree,Medical,very_high,high,one,Sales Representative,very_high,2400,No,high,two,better,2
+38,No,Travel_Rarely,bachelors_degree,Medical,high,high,two,Healthcare Representative,high,9824,No,high,one,better,1
+37,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,two,Manufacturing Director,meduim,6447,No,meduim,one,good,6
+49,No,Travel_Rarely,masters_degree,Life Sciences,very_high,meduim,five,Research Director,high,19502,Yes,high,one,better,31
+24,No,Travel_Rarely,bachelors_degree,Medical,meduim,very_high,one,Research Scientist,very_high,2725,Yes,meduim,two,better,6
+26,No,Travel_Rarely,some_college,Marketing,low,high,two,Sales Executive,meduim,6272,No,very_high,two,best,5
+24,No,Travel_Rarely,some_college,Other,very_high,meduim,one,Laboratory Technician,meduim,2127,No,very_high,one,better,1
+50,No,Travel_Frequently,bachelors_degree,Medical,low,high,five,Manager,meduim,18200,No,high,one,better,32
+25,No,Travel_Rarely,no_college,Medical,meduim,high,one,Sales Representative,high,2096,No,high,zero,better,7
+24,Yes,Travel_Frequently,bachelors_degree,Life Sciences,low,high,one,Laboratory Technician,high,2886,Yes,very_high,one,better,6
+30,Yes,Travel_Frequently,masters_degree,Life Sciences,meduim,meduim,one,Sales Representative,low,2033,No,high,one,best,1
+34,No,Travel_Rarely,some_college,Life Sciences,meduim,meduim,one,Research Scientist,very_high,3622,Yes,very_high,one,better,6
+31,Yes,Travel_Rarely,masters_degree,Medical,meduim,high,two,Sales Executive,low,4233,No,high,zero,bad,3
+35,No,Travel_Rarely,some_college,Other,low,meduim,two,Laboratory Technician,very_high,3681,No,very_high,zero,better,3
+31,No,Travel_Rarely,masters_degree,Medical,low,very_high,two,Sales Executive,very_high,5460,No,very_high,two,best,7
+27,No,Travel_Rarely,masters_degree,Medical,low,meduim,one,Research Scientist,high,2187,No,high,two,good,5
+37,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,two,Sales Executive,high,9602,Yes,high,one,good,3
+20,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,one,Research Scientist,meduim,2836,No,very_high,zero,best,1
+42,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Healthcare Representative,very_high,4089,No,meduim,two,better,10
+43,No,Travel_Rarely,masters_degree,Other,meduim,meduim,four,Research Director,very_high,16627,Yes,high,one,good,1
+38,No,Travel_Rarely,no_college,Life Sciences,high,high,one,Research Scientist,low,2619,No,very_high,zero,good,0
+43,No,Travel_Frequently,Doctorate,Medical,very_high,high,two,Laboratory Technician,high,5679,Yes,meduim,one,better,8
+48,No,Travel_Rarely,masters_degree,Life Sciences,very_high,meduim,four,Manager,low,15402,No,low,one,bad,3
+44,No,Travel_Rarely,masters_degree,Life Sciences,low,meduim,two,Human Resources,high,5985,No,meduim,zero,best,2
+34,No,Travel_Rarely,bachelors_degree,Technical Degree,high,high,one,Sales Representative,high,2579,Yes,very_high,two,better,8
+27,Yes,Travel_Rarely,no_college,Marketing,high,high,one,Sales Representative,low,3041,No,meduim,one,better,4
+21,No,Travel_Rarely,no_college,Technical Degree,high,high,one,Sales Representative,high,3447,No,high,zero,better,3
+44,No,Travel_Rarely,masters_degree,Other,very_high,high,five,Manager,very_high,19513,Yes,low,one,best,2
+22,No,Travel_Rarely,no_college,Medical,low,high,one,Research Scientist,high,2773,No,very_high,zero,better,2
+33,No,Travel_Rarely,masters_degree,Marketing,high,high,two,Sales Executive,high,7104,No,very_high,zero,better,5
+32,No,Travel_Rarely,masters_degree,Life Sciences,low,high,two,Research Scientist,very_high,6322,Yes,very_high,one,good,6
+30,No,Travel_Frequently,bachelors_degree,Medical,high,high,one,Research Scientist,high,2083,No,high,one,better,1
+53,No,Travel_Rarely,no_college,Medical,very_high,high,two,Sales Executive,low,8381,No,very_high,zero,best,14
+34,No,Travel_Rarely,Doctorate,Life Sciences,meduim,high,one,Research Scientist,very_high,2691,No,very_high,one,good,10
+45,Yes,Travel_Frequently,masters_degree,Life Sciences,low,high,two,Sales Executive,low,4286,No,very_high,two,better,1
+26,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Laboratory Technician,very_high,2659,Yes,high,one,better,3
+37,No,Travel_Rarely,bachelors_degree,Other,high,high,three,Manufacturing Director,high,9434,No,high,one,better,10
+29,No,Travel_Rarely,some_college,Medical,meduim,high,two,Sales Executive,high,5561,No,low,one,good,6
+35,No,Travel_Rarely,masters_degree,Life Sciences,meduim,low,two,Research Scientist,very_high,6646,No,meduim,zero,better,17
+33,No,Travel_Frequently,bachelors_degree,Life Sciences,high,high,two,Healthcare Representative,very_high,7725,No,high,one,bad,13
+54,No,Travel_Rarely,masters_degree,Medical,high,high,three,Human Resources,meduim,10725,No,high,one,best,9
+36,No,Travel_Rarely,some_college,Medical,meduim,meduim,two,Manufacturing Director,meduim,8847,Yes,high,one,better,3
+27,No,Travel_Rarely,masters_degree,Medical,low,meduim,one,Research Scientist,very_high,2045,No,very_high,zero,better,4
+20,Yes,Travel_Rarely,no_college,Medical,very_high,high,one,Research Scientist,high,1009,Yes,very_high,zero,better,1
+33,Yes,Travel_Frequently,bachelors_degree,Life Sciences,low,high,one,Research Scientist,low,3348,Yes,low,zero,better,10
+35,No,Non-Travel,bachelors_degree,Life Sciences,high,meduim,one,Laboratory Technician,high,1281,No,high,two,better,1
+23,No,Travel_Rarely,bachelors_degree,Medical,low,very_high,one,Research Scientist,low,2819,No,low,one,best,3
+25,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,very_high,two,Sales Executive,meduim,4851,No,high,one,better,3
+38,No,Travel_Rarely,masters_degree,Marketing,very_high,meduim,two,Sales Executive,very_high,4028,No,low,zero,better,7
+29,No,Travel_Frequently,masters_degree,Life Sciences,meduim,low,one,Research Scientist,very_high,2720,No,very_high,one,better,10
+48,No,Travel_Rarely,no_college,Marketing,meduim,very_high,two,Sales Executive,meduim,8120,No,very_high,zero,better,2
+27,No,Travel_Frequently,no_college,Medical,very_high,very_high,two,Sales Executive,very_high,4647,Yes,meduim,two,better,6
+37,No,Travel_Rarely,some_college,Life Sciences,very_high,very_high,one,Research Scientist,very_high,4680,No,low,zero,better,1
+50,No,Travel_Rarely,no_college,Medical,very_high,very_high,one,Laboratory Technician,high,3221,Yes,high,three,better,20
+34,No,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,three,Healthcare Representative,meduim,8621,No,meduim,zero,best,8
+24,Yes,Travel_Rarely,some_college,Life Sciences,low,high,two,Sales Executive,high,4577,No,low,zero,better,2
+39,No,Travel_Rarely,masters_degree,Technical Degree,very_high,meduim,two,Healthcare Representative,high,4553,No,low,zero,better,20
+32,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,two,Sales Executive,very_high,5396,No,very_high,zero,good,10
+50,Yes,Travel_Frequently,some_college,Technical Degree,meduim,high,two,Sales Executive,high,6796,Yes,low,one,better,4
+38,No,Travel_Rarely,masters_degree,Life Sciences,meduim,very_high,two,Healthcare Representative,very_high,7625,No,high,zero,good,9
+27,No,Travel_Rarely,some_college,Life Sciences,high,high,three,Manufacturing Director,low,7412,No,very_high,zero,better,9
+32,No,Travel_Rarely,some_college,Life Sciences,high,high,three,Research Director,very_high,11159,No,very_high,zero,better,7
+47,No,Travel_Rarely,masters_degree,Marketing,very_high,high,two,Sales Executive,low,4960,No,very_high,zero,better,7
+40,No,Travel_Frequently,masters_degree,Life Sciences,very_high,meduim,three,Sales Executive,low,10475,Yes,high,one,better,18
+53,No,Travel_Rarely,bachelors_degree,Life Sciences,high,very_high,four,Research Director,high,14814,No,high,zero,better,5
+41,No,Travel_Rarely,masters_degree,Human Resources,meduim,meduim,five,Manager,very_high,19141,No,meduim,three,good,21
+60,No,Travel_Rarely,masters_degree,Marketing,low,high,two,Sales Executive,low,5405,No,very_high,zero,better,2
+27,No,Travel_Frequently,some_college,Life Sciences,very_high,high,three,Manufacturing Director,low,8793,No,high,two,good,9
+41,No,Travel_Rarely,bachelors_degree,Human Resources,very_high,meduim,five,Manager,high,19189,No,meduim,one,better,22
+50,No,Travel_Rarely,masters_degree,Marketing,very_high,high,one,Sales Representative,meduim,3875,No,very_high,one,better,2
+28,Yes,Travel_Rarely,some_college,Life Sciences,low,low,one,Research Scientist,meduim,2216,Yes,very_high,zero,better,7
+36,No,Non-Travel,bachelors_degree,Life Sciences,low,very_high,three,Research Director,low,11713,No,low,one,better,8
+38,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,three,Manufacturing Director,high,7861,Yes,very_high,zero,best,1
+44,No,Non-Travel,bachelors_degree,Medical,low,low,one,Laboratory Technician,high,3708,No,high,zero,better,5
+47,No,Travel_Frequently,bachelors_degree,Medical,very_high,high,four,Sales Executive,high,13770,Yes,very_high,two,good,22
+30,No,Travel_Rarely,Doctorate,Marketing,high,high,two,Sales Executive,very_high,5304,No,very_high,one,good,8
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Sales Representative,high,2642,No,high,zero,better,1
+42,Yes,Travel_Frequently,bachelors_degree,Medical,high,very_high,one,Research Scientist,high,2759,Yes,very_high,zero,better,2
+43,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,meduim,two,Sales Executive,very_high,6804,No,high,one,better,2
+34,No,Travel_Rarely,some_college,Medical,meduim,high,two,Healthcare Representative,high,6142,No,very_high,zero,better,5
+23,No,Travel_Rarely,no_college,Medical,meduim,high,one,Laboratory Technician,low,2500,No,very_high,one,best,4
+39,No,Travel_Rarely,bachelors_degree,Human Resources,high,very_high,two,Human Resources,meduim,6389,No,high,one,bad,8
+56,No,Travel_Rarely,bachelors_degree,Medical,high,high,four,Healthcare Representative,very_high,11103,No,high,zero,good,10
+40,No,Travel_Rarely,no_college,Medical,very_high,meduim,one,Research Scientist,very_high,2342,Yes,very_high,zero,good,4
+27,No,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,two,Healthcare Representative,low,6811,No,low,zero,bad,7
+29,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,one,Sales Representative,meduim,2297,No,very_high,two,better,2
+53,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,two,Laboratory Technician,very_high,2450,No,very_high,zero,better,2
+35,No,Non-Travel,masters_degree,Life Sciences,very_high,high,two,Healthcare Representative,low,5093,No,low,one,best,1
+32,No,Travel_Frequently,masters_degree,Life Sciences,low,high,two,Laboratory Technician,very_high,5309,No,very_high,two,better,10
+38,No,Travel_Rarely,Doctorate,Medical,very_high,high,one,Research Scientist,high,3057,Yes,meduim,one,bad,1
+34,No,Travel_Rarely,Doctorate,Life Sciences,meduim,high,two,Manufacturing Director,low,5121,No,high,one,better,0
+52,No,Travel_Rarely,masters_degree,Marketing,high,meduim,four,Manager,low,16856,No,low,zero,best,34
+33,Yes,Travel_Rarely,masters_degree,Other,very_high,high,one,Research Scientist,very_high,2686,Yes,high,zero,good,10
+25,No,Travel_Rarely,no_college,Medical,high,high,two,Sales Executive,very_high,6180,No,meduim,zero,good,6
+45,No,Travel_Rarely,some_college,Technical Degree,meduim,low,two,Sales Representative,high,6632,No,low,zero,better,8
+23,No,Travel_Rarely,no_college,Medical,low,very_high,one,Research Scientist,high,3505,No,very_high,zero,better,2
+47,Yes,Travel_Frequently,some_college,Life Sciences,meduim,very_high,two,Sales Executive,high,6397,Yes,very_high,zero,better,5
+34,No,Travel_Rarely,bachelors_degree,Other,very_high,high,two,Sales Executive,very_high,6274,No,high,zero,better,6
+55,Yes,Travel_Rarely,bachelors_degree,Medical,very_high,high,five,Manager,low,19859,Yes,very_high,one,better,5
+36,No,Non-Travel,masters_degree,Life Sciences,low,meduim,three,Sales Executive,low,7587,No,meduim,zero,better,10
+52,No,Non-Travel,masters_degree,Medical,very_high,high,one,Research Scientist,very_high,4258,No,low,one,better,4
+26,No,Travel_Frequently,some_college,Life Sciences,low,low,one,Laboratory Technician,very_high,4364,No,low,one,better,2
+29,No,Travel_Rarely,bachelors_degree,Medical,meduim,high,two,Healthcare Representative,high,4335,No,low,one,good,8
+26,Yes,Travel_Rarely,bachelors_degree,Technical Degree,very_high,meduim,two,Sales Executive,low,5326,No,high,zero,good,4
+34,No,Travel_Rarely,masters_degree,Life Sciences,meduim,very_high,one,Research Scientist,very_high,3280,No,high,zero,better,4
+54,No,Travel_Rarely,masters_degree,Medical,very_high,high,two,Manufacturing Director,low,5485,Yes,meduim,two,better,5
+27,No,Travel_Frequently,no_college,Marketing,high,high,two,Sales Executive,very_high,4342,No,meduim,one,better,4
+37,No,Travel_Rarely,no_college,Life Sciences,very_high,high,one,Research Scientist,low,2782,Yes,meduim,two,good,5
+38,No,Travel_Frequently,masters_degree,Life Sciences,low,very_high,two,Manufacturing Director,low,5980,Yes,very_high,zero,better,15
+34,No,Travel_Rarely,masters_degree,Medical,high,meduim,one,Research Scientist,low,4381,No,high,zero,better,6
+35,No,Travel_Rarely,masters_degree,Life Sciences,low,high,one,Sales Representative,very_high,2572,No,meduim,one,good,3
+30,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,low,one,Laboratory Technician,high,3833,No,high,two,better,2
+40,No,Travel_Frequently,some_college,Medical,high,very_high,two,Healthcare Representative,meduim,4244,No,very_high,one,better,8
+34,No,Travel_Rarely,some_college,Life Sciences,high,high,two,Sales Executive,low,6500,No,meduim,one,better,3
+42,No,Travel_Frequently,bachelors_degree,Life Sciences,meduim,high,five,Manager,very_high,18430,No,meduim,one,good,24
+23,Yes,Travel_Rarely,bachelors_degree,Life Sciences,high,very_high,one,Laboratory Technician,low,1601,Yes,high,two,better,0
+24,No,Non-Travel,bachelors_degree,Life Sciences,high,meduim,one,Laboratory Technician,meduim,2694,No,high,three,better,1
+52,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,two,Laboratory Technician,high,3149,No,meduim,one,better,5
+50,No,Travel_Rarely,bachelors_degree,Medical,high,high,four,Research Director,high,17639,No,very_high,zero,better,4
+29,Yes,Travel_Rarely,some_college,Life Sciences,meduim,meduim,one,Laboratory Technician,low,2319,Yes,very_high,one,better,1
+33,No,Travel_Rarely,bachelors_degree,Medical,high,high,three,Research Director,high,11691,No,very_high,zero,best,13
+33,Yes,Travel_Rarely,bachelors_degree,Marketing,low,high,two,Sales Executive,low,5324,No,high,zero,better,3
+47,No,Travel_Rarely,some_college,Other,high,high,four,Manager,very_high,16752,Yes,high,one,good,26
+36,No,Travel_Rarely,bachelors_degree,Other,high,high,two,Manufacturing Director,meduim,5228,No,low,one,better,9
+29,No,Travel_Rarely,some_college,Life Sciences,high,very_high,one,Research Scientist,high,2700,No,high,one,better,10
+58,Yes,Travel_Rarely,masters_degree,Life Sciences,very_high,high,five,Research Director,meduim,19246,Yes,very_high,zero,better,31
+35,No,Travel_Rarely,masters_degree,Life Sciences,very_high,very_high,one,Research Scientist,high,2506,No,high,zero,better,2
+42,No,Travel_Rarely,some_college,Life Sciences,very_high,meduim,two,Manufacturing Director,very_high,6062,Yes,very_high,one,better,4
+28,Yes,Travel_Rarely,masters_degree,Medical,high,high,one,Research Scientist,high,4382,No,very_high,zero,good,2
+36,No,Travel_Rarely,bachelors_degree,Human Resources,high,high,one,Human Resources,meduim,2143,No,meduim,one,better,5
+32,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,two,Manufacturing Director,high,6162,No,high,one,better,14
+40,No,Travel_Frequently,masters_degree,Medical,low,meduim,two,Laboratory Technician,high,5094,No,very_high,zero,better,1
+30,No,Travel_Rarely,bachelors_degree,Medical,high,meduim,two,Manufacturing Director,very_high,6877,Yes,meduim,zero,good,0
+45,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,meduim,one,Research Scientist,high,2274,No,very_high,zero,better,1
+42,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,two,Manufacturing Director,meduim,4434,No,very_high,one,good,9
+38,No,Travel_Frequently,bachelors_degree,Life Sciences,low,meduim,two,Healthcare Representative,low,6288,No,high,one,good,4
+34,No,Travel_Frequently,masters_degree,Life Sciences,high,meduim,one,Research Scientist,very_high,2553,No,high,zero,better,5
+49,Yes,Travel_Rarely,bachelors_degree,Marketing,high,high,three,Sales Executive,very_high,7654,No,low,two,best,9
+55,Yes,Travel_Rarely,no_college,Medical,high,high,two,Sales Executive,very_high,5160,No,high,zero,good,9
+43,No,Travel_Rarely,some_college,Life Sciences,meduim,high,four,Research Director,low,17159,No,high,one,better,4
+27,No,Travel_Rarely,no_college,Technical Degree,high,meduim,three,Research Director,very_high,12808,Yes,meduim,one,better,9
+35,No,Travel_Rarely,bachelors_degree,Other,high,high,three,Manufacturing Director,high,10221,No,meduim,zero,best,8
+28,No,Travel_Rarely,masters_degree,Marketing,meduim,high,two,Sales Executive,meduim,4779,Yes,low,zero,better,8
+34,No,Travel_Rarely,some_college,Human Resources,high,high,one,Human Resources,very_high,3737,No,high,one,bad,3
+26,Yes,Travel_Frequently,some_college,Medical,high,meduim,one,Research Scientist,high,2366,Yes,low,one,better,8
+27,No,Non-Travel,bachelors_degree,Medical,very_high,high,one,Research Scientist,very_high,1706,No,high,three,good,0
+51,No,Travel_Rarely,masters_degree,Marketing,low,high,four,Manager,high,16307,No,high,one,good,20
+44,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,two,Healthcare Representative,meduim,5933,No,very_high,zero,good,5
+25,No,Travel_Rarely,no_college,Medical,low,very_high,one,Research Scientist,low,3424,No,high,zero,good,4
+33,No,Travel_Rarely,bachelors_degree,Medical,low,very_high,two,Sales Executive,low,4037,No,low,one,better,9
+35,No,Travel_Rarely,no_college,Medical,high,meduim,one,Research Scientist,low,2559,No,very_high,zero,good,6
+36,No,Travel_Rarely,some_college,Life Sciences,meduim,high,two,Sales Executive,very_high,6201,Yes,very_high,one,good,18
+32,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,two,Sales Executive,very_high,4403,No,high,one,good,5
+30,No,Travel_Frequently,masters_degree,Life Sciences,meduim,meduim,one,Research Scientist,very_high,3761,No,meduim,one,good,5
+53,No,Travel_Rarely,some_college,Marketing,low,meduim,three,Sales Executive,very_high,10934,Yes,very_high,one,better,5
+45,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,three,Sales Executive,low,10761,Yes,high,one,better,5
+32,No,Travel_Rarely,some_college,Medical,high,very_high,two,Research Scientist,high,5175,No,high,one,good,5
+52,No,Travel_Frequently,masters_degree,Medical,high,meduim,four,Manufacturing Director,very_high,13826,No,high,zero,better,9
+37,No,Travel_Rarely,masters_degree,Marketing,very_high,meduim,two,Sales Executive,high,6334,No,very_high,two,better,1
+28,No,Travel_Rarely,some_college,Medical,meduim,meduim,one,Human Resources,very_high,4936,No,very_high,one,better,5
+22,No,Travel_Rarely,some_college,Life Sciences,very_high,meduim,two,Manufacturing Director,very_high,4775,No,low,two,bad,2
+44,No,Travel_Rarely,masters_degree,Life Sciences,low,very_high,one,Laboratory Technician,very_high,2818,Yes,high,one,good,3
+42,No,Travel_Frequently,no_college,Medical,meduim,high,one,Research Scientist,very_high,2515,Yes,very_high,zero,better,2
+36,No,Travel_Rarely,bachelors_degree,Life Sciences,low,meduim,one,Human Resources,low,2342,No,high,zero,better,5
+25,No,Travel_Rarely,no_college,Other,high,high,two,Sales Executive,low,4194,Yes,very_high,zero,better,5
+35,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,three,Manufacturing Director,high,10685,Yes,meduim,one,better,17
+35,Yes,Travel_Frequently,masters_degree,Life Sciences,very_high,high,one,Research Scientist,meduim,2022,Yes,low,one,good,10
+32,No,Non-Travel,bachelors_degree,Life Sciences,very_high,high,one,Laboratory Technician,very_high,2314,No,meduim,one,better,3
+25,No,Travel_Rarely,no_college,Marketing,high,meduim,two,Sales Executive,low,4256,No,low,zero,best,5
+49,No,Travel_Rarely,bachelors_degree,Technical Degree,high,high,one,Research Scientist,low,3580,No,meduim,one,better,4
+24,No,Non-Travel,no_college,Life Sciences,low,meduim,one,Laboratory Technician,very_high,3162,No,very_high,zero,good,5
+32,No,Travel_Frequently,some_college,Life Sciences,meduim,high,two,Sales Executive,meduim,6524,No,very_high,one,better,10
+38,No,Travel_Rarely,bachelors_degree,Marketing,meduim,meduim,one,Sales Representative,meduim,2899,No,very_high,one,better,2
+42,No,Travel_Rarely,bachelors_degree,Life Sciences,high,very_high,two,Laboratory Technician,very_high,5231,Yes,meduim,one,good,5
+31,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,one,Research Scientist,very_high,2356,Yes,meduim,one,better,6
+29,Yes,Travel_Rarely,bachelors_degree,Medical,meduim,meduim,one,Sales Representative,high,2800,Yes,high,three,better,3
+53,No,Travel_Rarely,bachelors_degree,Marketing,low,high,four,Sales Executive,very_high,11836,No,high,one,better,2
+35,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,meduim,three,Manufacturing Director,meduim,10903,No,low,zero,better,13
+37,No,Travel_Frequently,some_college,Medical,high,high,one,Sales Representative,very_high,2973,No,meduim,one,better,5
+53,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,four,Research Director,very_high,14275,No,high,zero,better,12
+43,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,two,Healthcare Representative,very_high,5562,No,meduim,one,good,5
+47,No,Travel_Rarely,some_college,Marketing,high,high,two,Sales Executive,very_high,4537,Yes,low,one,better,7
+37,No,Non-Travel,some_college,Medical,low,high,three,Sales Executive,meduim,7642,Yes,very_high,zero,better,10
+50,No,Non-Travel,masters_degree,Life Sciences,low,high,four,Manager,low,17924,No,very_high,one,better,31
+39,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,two,Human Resources,very_high,5204,No,high,two,better,5
+33,No,Travel_Rarely,some_college,Human Resources,very_high,high,one,Human Resources,meduim,2277,Yes,high,one,best,4
+32,Yes,Travel_Rarely,masters_degree,Life Sciences,low,high,one,Laboratory Technician,very_high,2795,Yes,high,zero,bad,1
+29,No,Travel_Rarely,no_college,Medical,low,meduim,one,Laboratory Technician,very_high,2532,No,high,three,better,4
+44,No,Travel_Rarely,some_college,Life Sciences,meduim,high,one,Research Scientist,low,2559,Yes,very_high,zero,better,8
+28,No,Travel_Rarely,masters_degree,Medical,low,high,two,Sales Executive,very_high,4908,No,meduim,zero,better,4
+58,Yes,Travel_Frequently,no_college,Life Sciences,very_high,meduim,one,Laboratory Technician,very_high,2380,Yes,very_high,one,good,1
+43,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,two,Manufacturing Director,meduim,4765,No,high,one,best,1
+20,Yes,Travel_Rarely,bachelors_degree,Medical,high,meduim,one,Sales Representative,high,2044,No,very_high,zero,good,2
+21,Yes,Travel_Rarely,no_college,Other,very_high,high,one,Research Scientist,very_high,2693,No,low,zero,good,1
+36,No,Travel_Rarely,no_college,Life Sciences,high,high,two,Healthcare Representative,very_high,6586,Yes,low,one,good,16
+47,No,Travel_Rarely,masters_degree,Life Sciences,very_high,meduim,one,Sales Representative,very_high,3294,Yes,low,zero,good,3
+22,Yes,Travel_Rarely,no_college,Life Sciences,meduim,high,two,Manufacturing Director,high,4171,Yes,low,one,best,3
+41,Yes,Travel_Rarely,masters_degree,Life Sciences,meduim,low,one,Laboratory Technician,very_high,2778,Yes,high,one,good,7
+28,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Research Scientist,high,2377,No,meduim,one,better,2
+39,Yes,Travel_Rarely,bachelors_degree,Medical,very_high,high,one,Laboratory Technician,low,2404,Yes,very_high,zero,bad,2
+27,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,one,Research Scientist,high,2318,No,high,zero,better,1
+34,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,one,Laboratory Technician,meduim,2008,No,meduim,two,better,1
+42,No,Travel_Rarely,some_college,Medical,high,meduim,two,Sales Executive,high,6244,No,low,zero,better,5
+33,No,Travel_Rarely,masters_degree,Other,high,meduim,one,Research Scientist,low,2799,Yes,meduim,zero,better,3
+58,No,Travel_Rarely,bachelors_degree,Technical Degree,high,meduim,three,Healthcare Representative,meduim,10552,Yes,very_high,one,better,6
+31,No,Travel_Rarely,masters_degree,Life Sciences,meduim,meduim,one,Sales Representative,high,2329,No,meduim,zero,best,7
+35,No,Travel_Rarely,no_college,Life Sciences,very_high,high,two,Healthcare Representative,very_high,4014,Yes,very_high,one,bad,10
+49,No,Travel_Rarely,some_college,Other,low,high,three,Laboratory Technician,meduim,7403,No,high,one,good,26
+48,No,Travel_Rarely,masters_degree,Medical,very_high,high,one,Research Scientist,high,2259,No,low,two,good,0
+31,No,Non-Travel,some_college,Marketing,very_high,high,two,Sales Executive,high,6932,No,very_high,one,good,9
+36,No,Travel_Rarely,masters_degree,Other,meduim,high,one,Research Scientist,very_high,4678,No,high,zero,better,6
+38,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,three,Research Director,low,13582,No,meduim,one,better,15
+32,No,Non-Travel,bachelors_degree,Life Sciences,high,meduim,one,Laboratory Technician,meduim,2332,No,high,zero,better,3
+25,Yes,Travel_Rarely,some_college,Marketing,high,meduim,one,Sales Representative,meduim,2413,Yes,high,three,better,1
+40,No,Travel_Rarely,masters_degree,Marketing,low,meduim,three,Sales Executive,meduim,9705,No,meduim,one,good,1
+26,No,Travel_Frequently,bachelors_degree,Medical,high,meduim,two,Sales Executive,low,4294,No,meduim,zero,better,7
+41,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,one,Laboratory Technician,low,4721,Yes,high,zero,better,18
+36,No,Travel_Rarely,masters_degree,Medical,high,high,one,Laboratory Technician,high,2519,No,high,zero,better,11
+19,Yes,Travel_Rarely,bachelors_degree,Other,very_high,meduim,one,Sales Representative,meduim,2121,Yes,meduim,zero,best,1
+20,Yes,Travel_Rarely,bachelors_degree,Technical Degree,low,high,one,Laboratory Technician,low,2973,No,meduim,zero,better,1
+31,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,two,Healthcare Representative,very_high,5855,Yes,high,two,bad,9
+40,No,Travel_Frequently,masters_degree,Medical,very_high,high,one,Research Scientist,meduim,3617,Yes,very_high,one,better,1
+32,No,Travel_Rarely,masters_degree,Medical,high,high,two,Manufacturing Director,low,6725,No,high,one,best,8
+36,Yes,Travel_Rarely,no_college,Life Sciences,high,meduim,three,Sales Executive,very_high,10325,Yes,low,one,better,16
+33,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,meduim,two,Healthcare Representative,very_high,6949,No,low,zero,better,5
+37,Yes,Travel_Rarely,masters_degree,Life Sciences,low,meduim,three,Sales Executive,high,10609,No,high,zero,bad,14
+45,No,Non-Travel,some_college,Life Sciences,high,high,two,Laboratory Technician,meduim,4447,No,meduim,zero,good,9
+29,No,Travel_Frequently,bachelors_degree,Technical Degree,high,high,one,Sales Representative,very_high,2157,No,meduim,one,better,3
+35,No,Travel_Rarely,bachelors_degree,Medical,high,high,two,Sales Executive,high,4601,No,meduim,zero,better,5
+52,No,Travel_Rarely,some_college,Life Sciences,very_high,high,four,Manager,very_high,17099,No,meduim,one,good,9
+58,Yes,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,one,Research Scientist,high,2479,No,low,zero,better,1
+53,No,Travel_Rarely,some_college,Medical,high,high,four,Manager,high,14852,No,high,one,best,17
+30,No,Travel_Rarely,some_college,Other,high,high,three,Sales Executive,high,7264,No,low,one,best,8
+38,No,Non-Travel,bachelors_degree,Technical Degree,high,high,two,Sales Executive,very_high,5666,Yes,meduim,zero,better,5
+35,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,three,Sales Executive,very_high,7823,No,meduim,one,better,10
+39,No,Travel_Rarely,Doctorate,Life Sciences,low,very_high,three,Sales Executive,high,7880,No,very_high,zero,better,8
+40,Yes,Non-Travel,bachelors_degree,Life Sciences,meduim,very_high,four,Sales Executive,meduim,13194,Yes,very_high,zero,good,1
+47,No,Travel_Frequently,masters_degree,Medical,high,very_high,two,Manufacturing Director,high,5067,Yes,high,zero,best,19
+36,No,Non-Travel,masters_degree,Technical Degree,low,high,two,Sales Executive,very_high,5079,No,very_high,two,better,7
+31,Yes,Non-Travel,some_college,Medical,high,meduim,one,Research Scientist,low,2321,Yes,low,zero,better,3
+33,No,Non-Travel,bachelors_degree,Life Sciences,very_high,high,four,Manager,high,17444,No,very_high,zero,better,10
+29,Yes,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,one,Research Scientist,low,2404,Yes,high,zero,better,0
+33,No,Travel_Rarely,no_college,Life Sciences,meduim,high,one,Research Scientist,very_high,3452,No,low,zero,better,3
+45,No,Travel_Rarely,masters_degree,Medical,very_high,high,one,Laboratory Technician,very_high,2270,No,very_high,two,better,5
+50,No,Travel_Rarely,some_college,Medical,very_high,high,four,Research Director,very_high,17399,No,high,one,good,5
+33,No,Travel_Frequently,masters_degree,Other,high,very_high,two,Healthcare Representative,meduim,5488,Yes,low,one,better,6
+41,No,Travel_Frequently,bachelors_degree,Medical,low,high,five,Research Director,high,19419,No,meduim,one,best,18
+27,No,Travel_Rarely,masters_degree,Technical Degree,high,high,one,Laboratory Technician,meduim,2811,No,meduim,one,better,2
+45,No,Non-Travel,some_college,Life Sciences,very_high,high,two,Laboratory Technician,low,3633,Yes,high,one,better,9
+47,No,Travel_Rarely,some_college,Life Sciences,very_high,high,two,Sales Executive,very_high,4163,Yes,high,zero,better,9
+30,Yes,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Research Scientist,high,2132,Yes,meduim,zero,better,5
+50,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,four,Manufacturing Director,high,13973,Yes,very_high,one,better,12
+38,No,Travel_Frequently,no_college,Medical,high,high,one,Research Scientist,high,2684,No,meduim,one,good,2
+46,No,Travel_Rarely,some_college,Medical,very_high,high,three,Manufacturing Director,high,10845,No,meduim,one,better,8
+24,No,Travel_Rarely,no_college,Medical,very_high,meduim,two,Manufacturing Director,high,4377,No,meduim,two,better,4
+35,Yes,Travel_Rarely,masters_degree,Other,high,meduim,one,Laboratory Technician,meduim,3743,Yes,very_high,one,bad,4
+31,No,Travel_Frequently,no_college,Life Sciences,high,high,two,Manufacturing Director,low,4148,No,high,one,better,4
+18,No,Non-Travel,some_college,Life Sciences,meduim,high,one,Research Scientist,very_high,1051,No,very_high,zero,better,0
+54,No,Travel_Rarely,bachelors_degree,Technical Degree,high,high,three,Manufacturing Director,high,10739,No,high,one,better,10
+35,No,Travel_Rarely,masters_degree,Medical,high,high,three,Healthcare Representative,high,10388,Yes,high,one,good,16
+30,No,Travel_Rarely,some_college,Life Sciences,meduim,very_high,three,Research Director,low,11416,Yes,high,three,good,8
+20,Yes,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,one,Research Scientist,low,2600,Yes,low,zero,better,1
+30,Yes,Travel_Frequently,bachelors_degree,Medical,meduim,high,one,Laboratory Technician,meduim,2422,No,low,zero,better,3
+26,No,Travel_Rarely,some_college,Medical,very_high,very_high,two,Manufacturing Director,very_high,5472,No,meduim,zero,better,8
+22,No,Travel_Rarely,no_college,Life Sciences,meduim,low,one,Laboratory Technician,low,2451,No,low,one,good,4
+48,No,Travel_Rarely,bachelors_degree,Life Sciences,low,meduim,two,Healthcare Representative,high,4240,No,very_high,zero,better,2
+48,No,Travel_Rarely,masters_degree,Life Sciences,high,meduim,three,Healthcare Representative,high,10999,No,meduim,zero,better,15
+41,No,Travel_Rarely,some_college,Medical,very_high,high,two,Manufacturing Director,high,5003,No,meduim,zero,better,2
+39,No,Travel_Rarely,no_college,Life Sciences,very_high,meduim,four,Manufacturing Director,very_high,12742,No,high,one,better,21
+27,No,Travel_Rarely,masters_degree,Life Sciences,low,high,two,Manufacturing Director,very_high,4227,No,meduim,one,better,3
+35,No,Travel_Rarely,bachelors_degree,Other,meduim,high,one,Laboratory Technician,very_high,3917,No,low,one,good,3
+42,No,Travel_Rarely,some_college,Marketing,very_high,high,five,Manager,high,18303,No,meduim,zero,best,1
+50,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Laboratory Technician,very_high,2380,No,meduim,zero,better,1
+59,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,four,Manufacturing Director,very_high,13726,Yes,low,zero,better,5
+37,Yes,Travel_Rarely,some_college,Medical,low,low,two,Healthcare Representative,meduim,4777,No,low,zero,bad,1
+55,No,Travel_Frequently,masters_degree,Medical,high,high,two,Healthcare Representative,meduim,6385,Yes,very_high,two,better,8
+41,No,Non-Travel,no_college,Life Sciences,meduim,low,five,Research Director,high,19973,No,meduim,two,better,21
+38,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,two,Sales Executive,very_high,6861,Yes,high,zero,better,1
+26,Yes,Non-Travel,some_college,Medical,meduim,low,two,Sales Executive,low,4969,No,very_high,zero,better,2
+52,Yes,Travel_Rarely,no_college,Marketing,low,low,five,Manager,very_high,19845,No,very_high,one,better,32
+44,No,Travel_Rarely,bachelors_degree,Medical,very_high,very_high,four,Sales Executive,very_high,13320,Yes,high,one,better,12
+50,No,Non-Travel,bachelors_degree,Life Sciences,very_high,high,two,Sales Executive,high,6347,No,low,one,better,18
+36,Yes,Travel_Rarely,masters_degree,Life Sciences,high,very_high,one,Laboratory Technician,low,2743,No,high,zero,better,17
+39,No,Travel_Frequently,bachelors_degree,Medical,very_high,high,three,Manufacturing Director,low,10880,Yes,high,zero,better,21
+33,No,Non-Travel,no_college,Life Sciences,meduim,meduim,one,Sales Representative,very_high,2342,No,very_high,zero,good,2
+45,No,Travel_Rarely,some_college,Life Sciences,very_high,high,four,Manager,very_high,17650,No,meduim,one,best,9
+32,No,Non-Travel,masters_degree,Medical,very_high,high,one,Laboratory Technician,high,4025,No,meduim,zero,better,8
+34,No,Travel_Rarely,masters_degree,Marketing,meduim,very_high,two,Sales Executive,very_high,9725,No,very_high,one,good,15
+59,No,Travel_Rarely,some_college,Technical Degree,meduim,high,three,Manager,very_high,11904,Yes,high,one,bad,6
+45,No,Travel_Rarely,masters_degree,Medical,meduim,high,one,Human Resources,meduim,2177,No,low,zero,better,6
+53,No,Travel_Frequently,bachelors_degree,Marketing,high,meduim,three,Sales Executive,meduim,7525,No,low,one,better,15
+36,Yes,Travel_Rarely,bachelors_degree,Other,low,high,two,Laboratory Technician,high,4834,No,meduim,one,good,1
+26,Yes,Travel_Frequently,bachelors_degree,Life Sciences,low,high,one,Research Scientist,low,2042,Yes,meduim,one,better,3
+34,No,Travel_Rarely,masters_degree,Life Sciences,high,high,one,Sales Representative,high,2220,Yes,very_high,one,better,1
+28,No,Travel_Rarely,no_college,Medical,very_high,high,one,Sales Representative,meduim,1052,No,meduim,zero,better,1
+38,No,Travel_Frequently,masters_degree,Other,high,high,one,Research Scientist,high,2821,No,low,one,better,2
+50,No,Travel_Rarely,masters_degree,Medical,meduim,high,five,Research Director,high,19237,Yes,very_high,one,good,8
+37,No,Travel_Rarely,bachelors_degree,Other,very_high,high,two,Healthcare Representative,meduim,4107,No,low,zero,good,4
+40,No,Travel_Rarely,bachelors_degree,Marketing,high,high,two,Sales Executive,low,8396,No,meduim,one,good,7
+26,No,Travel_Frequently,no_college,Medical,low,meduim,one,Research Scientist,high,2007,No,high,two,better,5
+46,No,Travel_Rarely,masters_degree,Medical,very_high,high,five,Research Director,very_high,19627,No,very_high,two,better,2
+54,No,Travel_Rarely,masters_degree,Life Sciences,high,meduim,three,Sales Executive,high,10686,No,meduim,one,better,9
+56,No,Travel_Frequently,bachelors_degree,Medical,low,high,one,Research Scientist,high,2942,No,meduim,one,better,5
+36,No,Travel_Rarely,Doctorate,Medical,very_high,meduim,three,Manufacturing Director,very_high,8858,No,meduim,zero,good,14
+55,No,Non-Travel,no_college,Medical,high,meduim,four,Manager,low,16756,No,meduim,zero,best,9
+43,No,Travel_Rarely,bachelors_degree,Medical,high,meduim,three,Sales Executive,very_high,10798,No,high,one,better,1
+20,Yes,Travel_Frequently,bachelors_degree,Marketing,very_high,high,one,Sales Representative,very_high,2323,Yes,meduim,zero,better,2
+21,Yes,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,one,Laboratory Technician,low,1416,No,low,zero,good,1
+46,No,Travel_Rarely,masters_degree,Life Sciences,very_high,meduim,two,Research Scientist,low,4615,Yes,low,three,better,16
+51,Yes,Travel_Rarely,masters_degree,Life Sciences,low,high,one,Research Scientist,high,2461,Yes,high,three,best,10
+28,Yes,Non-Travel,some_college,Technical Degree,meduim,meduim,three,Healthcare Representative,low,8722,No,low,zero,good,10
+26,No,Travel_Rarely,some_college,Medical,low,meduim,one,Laboratory Technician,low,3955,No,low,two,better,5
+30,No,Travel_Rarely,bachelors_degree,Other,high,high,two,Manufacturing Director,low,9957,No,high,one,good,6
+41,No,Travel_Rarely,some_college,Technical Degree,meduim,very_high,one,Research Scientist,high,3376,No,high,zero,better,10
+38,No,Travel_Rarely,no_college,Life Sciences,high,meduim,three,Healthcare Representative,high,8823,No,low,one,good,19
+40,No,Travel_Rarely,masters_degree,Technical Degree,low,high,three,Healthcare Representative,very_high,10322,No,very_high,one,better,11
+27,No,Non-Travel,Doctorate,Life Sciences,low,low,one,Laboratory Technician,high,4621,No,very_high,three,better,3
+55,No,Travel_Frequently,no_college,Life Sciences,very_high,high,three,Manufacturing Director,meduim,10976,No,meduim,one,better,3
+28,No,Travel_Rarely,bachelors_degree,Other,high,high,two,Research Scientist,high,3660,No,very_high,zero,best,8
+44,Yes,Travel_Rarely,some_college,Medical,meduim,meduim,three,Human Resources,low,10482,No,very_high,one,better,20
+33,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,three,Healthcare Representative,very_high,7119,No,high,one,better,3
+35,Yes,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,three,Sales Executive,low,9582,Yes,low,zero,better,8
+33,Yes,Travel_Frequently,masters_degree,Medical,low,meduim,two,Research Scientist,high,4508,No,meduim,zero,better,13
+28,No,Travel_Rarely,some_college,Life Sciences,low,high,one,Laboratory Technician,high,2207,No,very_high,one,good,4
+34,No,Travel_Frequently,no_college,Life Sciences,low,high,two,Healthcare Representative,very_high,7756,No,high,zero,good,6
+37,No,Travel_Rarely,masters_degree,Life Sciences,very_high,meduim,two,Sales Executive,very_high,6694,Yes,high,three,better,1
+25,Yes,Travel_Rarely,no_college,Technical Degree,very_high,high,one,Laboratory Technician,very_high,3691,Yes,meduim,one,best,7
+26,Yes,Travel_Rarely,bachelors_degree,Medical,low,high,one,Laboratory Technician,high,2377,No,high,one,good,1
+33,Yes,Travel_Rarely,bachelors_degree,Medical,low,meduim,one,Research Scientist,meduim,2313,Yes,meduim,zero,better,2
+42,No,Travel_Rarely,some_college,Medical,very_high,high,four,Manager,low,17665,No,very_high,one,better,22
+28,Yes,Travel_Frequently,bachelors_degree,Medical,low,meduim,one,Laboratory Technician,meduim,2596,No,low,two,better,1
+50,Yes,Travel_Frequently,masters_degree,Other,very_high,high,two,Sales Executive,high,4728,Yes,very_high,zero,better,0
+33,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,two,Sales Executive,meduim,4302,No,high,one,better,3
+34,No,Non-Travel,masters_degree,Life Sciences,high,meduim,one,Research Scientist,very_high,2979,No,very_high,three,better,0
+48,No,Non-Travel,masters_degree,Medical,low,very_high,four,Manager,very_high,16885,No,high,zero,good,5
+45,No,Non-Travel,masters_degree,Life Sciences,meduim,meduim,two,Sales Executive,high,5593,No,very_high,one,better,15
+52,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,three,Healthcare Representative,meduim,10445,No,very_high,zero,better,8
+38,No,Travel_Rarely,masters_degree,Marketing,high,meduim,three,Sales Executive,high,8740,Yes,meduim,two,better,8
+29,No,Travel_Rarely,masters_degree,Life Sciences,high,high,one,Research Scientist,very_high,2514,No,low,one,better,7
+28,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,three,Manufacturing Director,meduim,7655,No,meduim,three,good,9
+46,No,Travel_Rarely,no_college,Marketing,low,high,four,Manager,high,17465,No,very_high,one,better,12
+38,No,Travel_Rarely,some_college,Marketing,very_high,high,three,Sales Executive,meduim,7351,No,high,zero,better,1
+43,No,Travel_Frequently,bachelors_degree,Life Sciences,high,high,three,Manufacturing Director,low,10820,No,high,one,better,8
+39,Yes,Travel_Frequently,bachelors_degree,Life Sciences,low,high,four,Healthcare Representative,very_high,12169,No,very_high,three,better,18
+40,No,Travel_Rarely,bachelors_degree,Medical,high,meduim,five,Research Director,high,19626,No,low,zero,best,20
+21,No,Travel_Rarely,no_college,Technical Degree,very_high,meduim,one,Research Scientist,meduim,2070,Yes,high,zero,best,2
+39,No,Non-Travel,bachelors_degree,Life Sciences,high,high,two,Laboratory Technician,meduim,6782,No,high,zero,good,5
+36,No,Non-Travel,masters_degree,Life Sciences,low,high,two,Manufacturing Director,very_high,7779,No,low,zero,better,11
+31,No,Travel_Frequently,bachelors_degree,Life Sciences,high,very_high,one,Sales Representative,very_high,2791,No,low,one,better,2
+28,No,Travel_Rarely,no_college,Life Sciences,low,meduim,one,Research Scientist,meduim,3201,No,low,zero,bad,5
+35,No,Travel_Frequently,some_college,Marketing,very_high,high,two,Sales Executive,very_high,4968,No,very_high,one,better,5
+49,No,Travel_Rarely,masters_degree,Technical Degree,very_high,meduim,four,Sales Executive,meduim,13120,No,meduim,one,better,9
+34,No,Travel_Frequently,some_college,Life Sciences,very_high,high,two,Manufacturing Director,high,4033,No,very_high,zero,good,3
+29,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,one,Research Scientist,meduim,3291,No,very_high,two,good,7
+42,No,Travel_Rarely,bachelors_degree,Medical,meduim,low,two,Laboratory Technician,very_high,4272,No,low,zero,better,1
+29,No,Travel_Rarely,no_college,Medical,meduim,meduim,two,Manufacturing Director,very_high,5056,Yes,high,one,good,10
+38,No,Travel_Rarely,bachelors_degree,Human Resources,high,very_high,one,Human Resources,high,2844,No,very_high,one,best,7
+28,No,Travel_Frequently,bachelors_degree,Life Sciences,high,meduim,one,Research Scientist,high,2703,Yes,very_high,one,better,3
+18,Yes,Non-Travel,no_college,Medical,high,high,one,Laboratory Technician,high,1904,No,very_high,zero,better,0
+33,Yes,Travel_Rarely,masters_degree,Marketing,low,high,two,Sales Executive,low,8224,Yes,low,zero,better,5
+41,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,one,Laboratory Technician,very_high,4766,Yes,low,one,better,1
+31,Yes,Travel_Frequently,bachelors_degree,Medical,high,high,one,Laboratory Technician,high,2610,No,high,one,good,2
+37,No,Travel_Rarely,some_college,Medical,high,meduim,two,Healthcare Representative,very_high,5731,No,high,two,better,6
+27,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,one,Research Scientist,high,2539,No,high,one,better,4
+34,No,Travel_Rarely,no_college,Life Sciences,meduim,high,two,Sales Executive,high,5714,No,low,zero,good,6
+35,No,Travel_Rarely,masters_degree,Technical Degree,high,high,one,Human Resources,high,4323,No,meduim,zero,bad,5
+29,Yes,Travel_Rarely,no_college,Life Sciences,very_high,meduim,three,Sales Executive,low,7336,No,low,one,bad,11
+40,No,Travel_Frequently,masters_degree,Medical,meduim,high,three,Research Director,high,13499,No,high,zero,good,18
+42,Yes,Travel_Frequently,bachelors_degree,Life Sciences,high,high,four,Sales Executive,low,13758,Yes,meduim,zero,good,21
+42,No,Travel_Rarely,masters_degree,Marketing,meduim,high,two,Sales Executive,low,5155,No,very_high,zero,best,6
+35,No,Travel_Rarely,masters_degree,Medical,very_high,meduim,one,Laboratory Technician,high,2258,No,meduim,one,better,8
+24,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,one,Laboratory Technician,meduim,3597,No,very_high,zero,better,4
+28,Yes,Travel_Rarely,no_college,Life Sciences,high,high,one,Laboratory Technician,very_high,2515,Yes,very_high,zero,good,1
+26,No,Travel_Rarely,masters_degree,Medical,low,very_high,one,Laboratory Technician,very_high,4420,No,meduim,one,better,8
+30,No,Travel_Rarely,bachelors_degree,Marketing,high,meduim,two,Sales Executive,high,6578,No,low,one,better,10
+40,No,Travel_Frequently,some_college,Medical,high,meduim,two,Research Scientist,very_high,4422,Yes,very_high,one,bad,1
+35,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,three,Manufacturing Director,meduim,10274,No,meduim,one,best,7
+34,No,Travel_Frequently,bachelors_degree,Medical,very_high,meduim,two,Healthcare Representative,low,5343,No,high,zero,better,13
+35,No,Travel_Frequently,masters_degree,Other,very_high,meduim,one,Laboratory Technician,very_high,2376,No,meduim,one,best,2
+43,Yes,Travel_Rarely,bachelors_degree,Marketing,low,low,two,Sales Executive,high,5346,No,meduim,zero,good,4
+32,No,Non-Travel,no_college,Life Sciences,high,high,one,Sales Representative,low,2827,No,high,three,better,1
+56,No,Travel_Rarely,masters_degree,Technical Degree,very_high,high,five,Manager,low,19943,No,very_high,one,better,5
+29,No,Travel_Rarely,no_college,Medical,meduim,high,one,Laboratory Technician,very_high,3131,No,low,one,better,10
+19,No,Travel_Rarely,some_college,Life Sciences,high,high,one,Research Scientist,low,2552,No,high,zero,better,1
+45,No,Travel_Rarely,bachelors_degree,Medical,low,high,one,Research Scientist,high,4477,Yes,high,one,good,3
+37,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,two,Manufacturing Director,very_high,6474,No,meduim,one,good,14
+20,No,Travel_Rarely,bachelors_degree,Life Sciences,low,meduim,one,Laboratory Technician,high,3033,No,low,zero,good,2
+44,Yes,Travel_Rarely,masters_degree,Life Sciences,high,high,one,Research Scientist,high,2936,Yes,high,zero,better,6
+53,No,Travel_Rarely,some_college,Medical,very_high,high,five,Manager,high,18606,No,meduim,one,better,7
+29,No,Travel_Rarely,no_college,Life Sciences,meduim,low,one,Research Scientist,very_high,2168,Yes,low,one,good,5
+22,Yes,Travel_Frequently,masters_degree,Life Sciences,high,meduim,one,Research Scientist,very_high,2853,Yes,meduim,one,better,0
+46,No,Travel_Rarely,bachelors_degree,Marketing,high,high,four,Manager,low,17048,No,low,zero,better,26
+44,No,Non-Travel,bachelors_degree,Life Sciences,very_high,low,one,Research Scientist,high,2290,No,very_high,zero,better,0
+33,No,Travel_Rarely,bachelors_degree,Human Resources,meduim,high,one,Human Resources,high,3600,No,very_high,one,better,5
+41,Yes,Non-Travel,some_college,Life Sciences,low,meduim,one,Research Scientist,low,2107,No,low,one,bad,1
+30,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Sales Executive,low,4115,No,high,three,better,4
+40,No,Travel_Frequently,masters_degree,Medical,meduim,high,two,Sales Executive,meduim,4327,No,very_high,three,better,0
+50,No,Travel_Frequently,bachelors_degree,Medical,very_high,high,four,Manager,low,17856,No,high,one,better,2
+28,No,Travel_Rarely,masters_degree,Medical,very_high,meduim,one,Laboratory Technician,low,3196,No,high,three,better,6
+46,No,Travel_Rarely,some_college,Life Sciences,very_high,high,five,Research Director,meduim,19081,No,low,one,better,4
+35,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Sales Executive,low,8966,Yes,very_high,three,better,7
+24,Yes,Travel_Rarely,some_college,Life Sciences,very_high,high,one,Laboratory Technician,meduim,2210,No,low,one,bad,1
+33,No,Travel_Frequently,bachelors_degree,Medical,meduim,high,two,Sales Executive,high,4539,No,low,one,good,10
+36,No,Travel_Rarely,masters_degree,Life Sciences,high,low,one,Laboratory Technician,high,2741,No,high,one,better,7
+30,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Laboratory Technician,high,3491,No,low,three,good,10
+44,No,Travel_Rarely,masters_degree,Other,very_high,high,two,Research Scientist,very_high,4541,No,meduim,zero,better,20
+20,No,Travel_Rarely,bachelors_degree,Marketing,high,very_high,one,Sales Representative,very_high,2678,No,very_high,zero,better,2
+46,No,Travel_Rarely,masters_degree,Technical Degree,very_high,high,two,Manufacturing Director,very_high,7379,No,high,one,good,6
+42,No,Non-Travel,Doctorate,Medical,very_high,very_high,two,Human Resources,low,6272,No,low,one,best,4
+60,No,Travel_Rarely,masters_degree,Marketing,meduim,very_high,two,Sales Executive,very_high,5220,Yes,meduim,one,better,11
+32,No,Travel_Frequently,bachelors_degree,Other,high,meduim,one,Laboratory Technician,meduim,2743,No,high,one,better,2
+32,No,Travel_Frequently,some_college,Life Sciences,very_high,high,two,Research Scientist,high,4998,Yes,very_high,zero,better,8
+36,No,Travel_Rarely,bachelors_degree,Technical Degree,high,low,three,Manufacturing Director,low,10252,Yes,high,one,better,7
+33,No,Travel_Rarely,bachelors_degree,Medical,low,high,one,Research Scientist,very_high,2781,No,meduim,one,better,14
+40,No,Travel_Rarely,bachelors_degree,Technical Degree,meduim,meduim,two,Sales Executive,meduim,6852,No,meduim,one,best,5
+25,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Sales Executive,very_high,4950,No,meduim,zero,better,4
+30,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,one,Research Scientist,meduim,3579,Yes,low,one,better,11
+42,No,Travel_Frequently,Doctorate,Medical,low,high,three,Research Director,low,13191,Yes,high,zero,better,1
+35,No,Non-Travel,some_college,Marketing,high,meduim,three,Sales Executive,very_high,10377,Yes,meduim,one,good,13
+27,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Research Scientist,low,2235,Yes,very_high,two,good,9
+54,No,Travel_Frequently,masters_degree,Life Sciences,very_high,high,three,Manufacturing Director,high,10502,No,low,one,bad,5
+44,No,Travel_Rarely,no_college,Life Sciences,low,very_high,one,Research Scientist,very_high,2011,No,very_high,one,better,10
+19,Yes,Non-Travel,bachelors_degree,Medical,low,meduim,one,Research Scientist,meduim,1859,Yes,meduim,zero,best,1
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Research Scientist,very_high,3760,No,low,three,better,3
+54,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,four,Research Director,very_high,17779,No,low,zero,better,10
+31,No,Travel_Rarely,some_college,Medical,high,high,two,Healthcare Representative,low,6833,Yes,very_high,zero,good,6
+31,No,Travel_Rarely,bachelors_degree,Medical,high,meduim,two,Healthcare Representative,low,6812,No,meduim,zero,better,10
+59,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,two,Sales Executive,very_high,5171,No,very_high,zero,better,6
+43,No,Travel_Rarely,bachelors_degree,Life Sciences,high,low,five,Research Director,very_high,19740,No,meduim,one,better,8
+49,No,Travel_Rarely,some_college,Medical,low,meduim,five,Manager,high,18711,No,high,one,best,1
+36,No,Travel_Frequently,bachelors_degree,Technical Degree,high,high,one,Research Scientist,meduim,3692,No,high,zero,good,11
+48,No,Travel_Rarely,some_college,Technical Degree,very_high,very_high,one,Laboratory Technician,meduim,2559,No,high,zero,good,1
+27,No,Travel_Rarely,some_college,Life Sciences,low,high,one,Research Scientist,high,2517,No,meduim,three,better,5
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,two,Healthcare Representative,very_high,6623,Yes,meduim,two,better,6
+48,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,five,Research Director,very_high,18265,No,high,zero,best,1
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,four,Research Director,very_high,16124,No,meduim,two,good,7
+34,No,Travel_Rarely,bachelors_degree,Technical Degree,high,very_high,one,Research Scientist,high,2585,No,very_high,zero,good,1
+44,No,Travel_Rarely,bachelors_degree,Marketing,meduim,high,five,Manager,meduim,18213,No,high,one,better,22
+33,No,Travel_Rarely,Doctorate,Marketing,very_high,very_high,three,Sales Executive,high,8380,Yes,very_high,two,better,9
+19,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,very_high,one,Research Scientist,very_high,2994,Yes,very_high,zero,better,1
+23,No,Travel_Rarely,some_college,Life Sciences,very_high,high,one,Research Scientist,high,1223,No,very_high,one,better,1
+25,Yes,Travel_Frequently,no_college,Life Sciences,high,low,one,Sales Representative,very_high,1118,Yes,very_high,zero,better,1
+26,No,Travel_Rarely,some_college,Life Sciences,high,high,one,Research Scientist,very_high,2875,Yes,meduim,zero,good,8
+45,Yes,Travel_Rarely,bachelors_degree,Marketing,low,low,five,Manager,meduim,18824,Yes,low,zero,better,24
+55,No,Non-Travel,no_college,Medical,very_high,meduim,four,Healthcare Representative,meduim,13577,Yes,very_high,one,better,33
+21,Yes,Travel_Frequently,some_college,Life Sciences,low,meduim,one,Laboratory Technician,high,2625,No,high,zero,bad,2
+46,No,Travel_Rarely,some_college,Marketing,very_high,meduim,five,Manager,meduim,18789,No,high,one,better,11
+34,No,Travel_Rarely,bachelors_degree,Marketing,high,high,two,Sales Executive,low,4538,Yes,very_high,zero,better,3
+51,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,five,Manager,meduim,19847,Yes,low,one,good,29
+59,No,Travel_Rarely,masters_degree,Medical,very_high,high,three,Manufacturing Director,very_high,10512,No,very_high,zero,good,9
+34,No,Travel_Frequently,bachelors_degree,Medical,high,high,two,Laboratory Technician,meduim,4444,No,high,two,best,11
+28,No,Travel_Frequently,masters_degree,Medical,very_high,high,one,Laboratory Technician,high,2154,Yes,high,zero,good,4
+44,No,Travel_Rarely,some_college,Life Sciences,high,very_high,five,Manager,low,19190,No,very_high,two,good,25
+34,No,Travel_Frequently,bachelors_degree,Life Sciences,high,meduim,two,Human Resources,meduim,4490,No,very_high,two,best,10
+35,No,Travel_Rarely,no_college,Life Sciences,high,high,one,Research Scientist,high,3506,Yes,very_high,zero,better,3
+42,No,Travel_Rarely,masters_degree,Medical,meduim,very_high,two,Research Scientist,meduim,2372,Yes,very_high,zero,better,1
+43,No,Travel_Rarely,masters_degree,Marketing,very_high,meduim,three,Sales Executive,very_high,10231,No,very_high,zero,best,21
+36,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Manufacturing Director,meduim,5410,Yes,very_high,zero,better,16
+44,Yes,Travel_Rarely,bachelors_degree,Medical,low,high,three,Healthcare Representative,very_high,7978,No,very_high,one,better,10
+28,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,meduim,one,Laboratory Technician,very_high,3867,Yes,meduim,one,better,2
+51,No,Travel_Frequently,some_college,Medical,meduim,meduim,one,Laboratory Technician,high,2838,No,meduim,zero,good,7
+30,No,Non-Travel,some_college,Medical,high,high,two,Manufacturing Director,high,4695,Yes,high,zero,better,8
+29,Yes,Travel_Rarely,bachelors_degree,Technical Degree,meduim,high,one,Laboratory Technician,high,3339,Yes,low,two,better,7
+28,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,one,Research Scientist,low,2080,No,meduim,zero,good,3
+25,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,one,Research Scientist,meduim,2096,No,very_high,zero,good,2
+32,No,Travel_Rarely,bachelors_degree,Medical,high,very_high,two,Sales Executive,very_high,6209,No,high,two,best,10
+45,No,Travel_Frequently,bachelors_degree,Medical,meduim,high,five,Manager,meduim,18061,No,high,zero,better,0
+39,No,Travel_Rarely,masters_degree,Medical,high,meduim,four,Manager,meduim,17123,Yes,very_high,two,better,19
+58,No,Travel_Rarely,masters_degree,Life Sciences,low,high,one,Research Scientist,high,2372,No,very_high,two,better,2
+32,Yes,Travel_Rarely,some_college,Life Sciences,very_high,high,two,Laboratory Technician,high,4883,No,low,one,better,10
+39,Yes,Travel_Rarely,bachelors_degree,Medical,high,high,one,Research Scientist,low,3904,No,low,zero,better,5
+30,No,Travel_Rarely,bachelors_degree,Technical Degree,low,meduim,two,Laboratory Technician,very_high,4627,No,low,one,better,9
+36,No,Travel_Rarely,masters_degree,Technical Degree,very_high,high,three,Healthcare Representative,high,7094,No,low,zero,better,7
+46,No,Travel_Rarely,some_college,Life Sciences,very_high,high,one,Human Resources,low,3423,No,high,zero,best,7
+28,No,Non-Travel,bachelors_degree,Life Sciences,high,low,two,Laboratory Technician,very_high,6674,No,low,three,better,9
+50,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,four,Research Director,low,16880,Yes,meduim,zero,better,3
+40,Yes,Travel_Rarely,masters_degree,Marketing,very_high,meduim,three,Sales Executive,meduim,9094,Yes,high,zero,better,5
+52,Yes,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,three,Sales Executive,meduim,8446,Yes,high,zero,good,8
+30,No,Travel_Rarely,masters_degree,Medical,meduim,high,three,Manager,low,11916,Yes,very_high,two,better,9
+39,No,Travel_Rarely,some_college,Life Sciences,low,high,two,Manufacturing Director,high,4534,No,low,zero,better,8
+31,No,Non-Travel,masters_degree,Life Sciences,very_high,high,three,Sales Executive,high,9852,Yes,low,one,good,10
+41,No,Non-Travel,some_college,Medical,high,low,two,Sales Executive,meduim,6151,No,low,zero,better,19
+31,Yes,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,one,Sales Representative,meduim,2302,Yes,low,zero,best,3
+44,Yes,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Laboratory Technician,low,2362,No,high,zero,best,3
+42,No,Non-Travel,no_college,Life Sciences,high,high,four,Manager,high,17861,Yes,very_high,zero,good,20
+55,No,Travel_Rarely,some_college,Medical,very_high,low,five,Manager,high,19187,No,very_high,one,better,19
+56,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,five,Manager,meduim,19717,No,low,zero,better,7
+40,No,Non-Travel,some_college,Life Sciences,high,high,one,Research Scientist,high,3544,No,meduim,one,better,4
+34,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,three,Healthcare Representative,very_high,8500,No,very_high,one,good,9
+40,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,two,Research Scientist,very_high,4661,No,high,zero,better,9
+41,No,Travel_Frequently,bachelors_degree,Marketing,high,high,two,Sales Executive,low,4103,No,very_high,one,better,9
+35,No,Travel_Frequently,masters_degree,Life Sciences,high,high,two,Research Scientist,high,4249,Yes,meduim,zero,better,9
+51,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,four,Manager,meduim,14026,Yes,meduim,one,better,33
+38,No,Travel_Rarely,some_college,Life Sciences,meduim,high,two,Sales Executive,low,6893,No,very_high,one,better,7
+34,No,Travel_Rarely,some_college,Medical,high,high,two,Sales Executive,low,6125,No,very_high,zero,best,10
+25,No,Travel_Rarely,no_college,Medical,very_high,high,one,Laboratory Technician,very_high,3669,No,high,three,good,3
+58,Yes,Travel_Rarely,masters_degree,Medical,high,meduim,three,Manufacturing Director,low,10008,Yes,very_high,zero,good,10
+40,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,one,Laboratory Technician,meduim,2387,No,high,one,better,4
+36,No,Travel_Frequently,bachelors_degree,Marketing,low,very_high,two,Sales Executive,low,4639,No,very_high,one,good,15
+48,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,three,Manufacturing Director,very_high,7898,No,high,zero,better,10
+27,No,Travel_Rarely,bachelors_degree,Medical,high,very_high,one,Sales Representative,very_high,2534,No,meduim,one,better,1
+51,No,Travel_Rarely,some_college,Technical Degree,very_high,meduim,four,Manufacturing Director,meduim,13142,No,meduim,zero,good,5
+18,No,Non-Travel,bachelors_degree,Life Sciences,very_high,high,one,Laboratory Technician,very_high,1611,No,high,zero,best,0
+35,No,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,two,Laboratory Technician,very_high,5363,No,meduim,one,better,9
+27,No,Travel_Frequently,no_college,Life Sciences,very_high,low,two,Sales Executive,very_high,5071,No,meduim,zero,better,6
+55,Yes,Travel_Rarely,masters_degree,Marketing,low,very_high,four,Sales Executive,high,13695,Yes,high,zero,good,19
+56,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,four,Manufacturing Director,meduim,13402,Yes,low,one,better,19
+34,No,Non-Travel,no_college,Technical Degree,low,meduim,one,Research Scientist,high,2029,No,high,three,better,5
+40,No,Travel_Rarely,no_college,Medical,meduim,very_high,two,Healthcare Representative,high,6377,No,meduim,three,better,12
+34,No,Travel_Rarely,bachelors_degree,Medical,meduim,high,two,Laboratory Technician,high,5429,No,low,two,better,8
+31,Yes,Travel_Frequently,bachelors_degree,Life Sciences,high,meduim,one,Sales Representative,very_high,2785,No,high,zero,best,1
+35,Yes,Travel_Frequently,masters_degree,Marketing,very_high,high,two,Sales Executive,high,4614,Yes,high,one,good,4
+38,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,very_high,one,Research Scientist,high,2610,No,very_high,three,better,4
+34,No,Travel_Rarely,masters_degree,Technical Degree,high,high,two,Healthcare Representative,very_high,6687,No,very_high,zero,best,14
+28,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,two,Sales Executive,low,4724,No,high,one,better,5
+31,Yes,Travel_Rarely,masters_degree,Medical,very_high,high,two,Manufacturing Director,high,6179,Yes,very_high,two,good,10
+39,No,Travel_Rarely,masters_degree,Life Sciences,low,meduim,two,Sales Executive,very_high,6120,Yes,very_high,two,best,5
+51,No,Travel_Frequently,bachelors_degree,Marketing,meduim,high,three,Sales Executive,meduim,10596,No,meduim,zero,better,4
+41,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,two,Research Scientist,very_high,5467,Yes,low,two,good,6
+37,No,Travel_Rarely,no_college,Life Sciences,high,high,one,Research Scientist,high,2996,Yes,very_high,zero,better,6
+33,No,Travel_Frequently,no_college,Life Sciences,meduim,high,two,Sales Executive,very_high,9998,No,low,zero,best,5
+32,No,Travel_Rarely,no_college,Marketing,high,high,two,Sales Executive,meduim,4078,Yes,low,three,good,3
+39,No,Non-Travel,some_college,Life Sciences,high,high,three,Healthcare Representative,high,10920,No,meduim,one,better,6
+25,No,Travel_Rarely,no_college,Life Sciences,low,very_high,two,Sales Executive,high,6232,No,meduim,zero,good,3
+52,No,Travel_Frequently,some_college,Medical,very_high,very_high,four,Manufacturing Director,high,13247,Yes,meduim,one,good,5
+43,No,Travel_Rarely,bachelors_degree,Medical,low,meduim,two,Research Scientist,high,4081,Yes,low,zero,bad,20
+27,No,Travel_Rarely,bachelors_degree,Marketing,very_high,meduim,two,Sales Executive,very_high,5769,Yes,very_high,zero,better,6
+27,Yes,Travel_Rarely,masters_degree,Life Sciences,very_high,high,one,Research Scientist,high,2394,Yes,very_high,zero,better,8
+26,No,Travel_Rarely,no_college,Medical,low,meduim,one,Research Scientist,very_high,3904,No,very_high,zero,better,4
+42,No,Travel_Rarely,bachelors_degree,Human Resources,high,high,four,Manager,low,16799,No,high,one,better,20
+52,No,Travel_Rarely,masters_degree,Other,high,high,one,Laboratory Technician,low,2950,No,high,zero,bad,5
+37,No,Travel_Rarely,bachelors_degree,Medical,low,high,one,Laboratory Technician,high,3629,No,low,zero,better,3
+35,No,Travel_Frequently,some_college,Life Sciences,high,high,three,Manufacturing Director,very_high,9362,No,high,zero,better,2
+25,No,Travel_Rarely,bachelors_degree,Technical Degree,low,high,one,Laboratory Technician,very_high,3229,No,meduim,one,good,3
+26,No,Travel_Rarely,bachelors_degree,Other,high,very_high,one,Laboratory Technician,low,3578,No,very_high,zero,better,7
+29,No,Travel_Rarely,bachelors_degree,Other,meduim,meduim,three,Human Resources,low,7988,No,low,zero,good,10
+49,Yes,Travel_Frequently,some_college,Life Sciences,low,meduim,two,Laboratory Technician,low,4284,No,low,zero,better,4
+29,Yes,Travel_Frequently,no_college,Other,high,high,three,Healthcare Representative,very_high,7553,Yes,low,zero,better,8
+54,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,four,Research Director,very_high,17328,No,very_high,zero,good,20
+58,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,five,Research Director,low,19701,Yes,high,one,better,9
+55,No,Travel_Rarely,masters_degree,Medical,meduim,very_high,four,Research Director,very_high,14732,No,very_high,two,best,7
+36,No,Travel_Rarely,masters_degree,Marketing,low,high,two,Sales Executive,meduim,9278,Yes,very_high,zero,better,5
+31,Yes,Travel_Frequently,masters_degree,Life Sciences,meduim,low,one,Sales Representative,high,1359,No,meduim,zero,better,1
+30,No,Travel_Rarely,masters_degree,Marketing,very_high,high,two,Sales Executive,low,4779,No,meduim,two,better,3
+31,No,Travel_Rarely,Doctorate,Life Sciences,low,high,four,Research Director,meduim,16422,No,high,zero,best,3
+34,No,Travel_Frequently,masters_degree,Other,very_high,high,one,Research Scientist,low,2996,No,high,two,better,4
+31,Yes,Travel_Rarely,bachelors_degree,Life Sciences,low,meduim,one,Research Scientist,meduim,1261,No,high,zero,best,1
+27,No,Travel_Rarely,no_college,Life Sciences,meduim,high,one,Laboratory Technician,low,2099,No,meduim,zero,best,5
+36,No,Travel_Rarely,masters_degree,Life Sciences,low,meduim,two,Laboratory Technician,very_high,5810,No,high,zero,good,10
+36,No,Travel_Rarely,masters_degree,Marketing,high,meduim,two,Sales Executive,low,5647,No,low,two,good,3
+47,No,Travel_Rarely,bachelors_degree,Technical Degree,low,high,one,Research Scientist,very_high,3420,No,high,one,good,6
+25,Yes,Travel_Rarely,some_college,Life Sciences,low,meduim,one,Sales Representative,low,4400,No,low,zero,better,3
+37,No,Non-Travel,some_college,Technical Degree,high,very_high,one,Laboratory Technician,high,3500,No,low,zero,bad,6
+56,No,Travel_Rarely,some_college,Life Sciences,low,high,one,Research Scientist,low,2066,No,very_high,one,best,3
+47,No,Travel_Rarely,masters_degree,Medical,low,high,four,Research Director,high,17169,No,meduim,two,best,20
+24,No,Travel_Rarely,no_college,Medical,very_high,high,two,Sales Executive,high,4162,Yes,high,two,better,5
+32,No,Travel_Rarely,Doctorate,Marketing,very_high,high,two,Sales Executive,very_high,9204,No,high,one,good,4
+34,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,one,Laboratory Technician,meduim,3294,No,low,one,good,5
+41,No,Travel_Rarely,Doctorate,Medical,meduim,very_high,one,Research Scientist,high,2127,Yes,low,zero,good,4
+40,No,Non-Travel,masters_degree,Other,high,high,two,Laboratory Technician,high,3975,No,high,two,best,8
+31,No,Travel_Rarely,some_college,Life Sciences,low,high,three,Sales Executive,very_high,10793,No,low,one,better,13
+46,Yes,Travel_Rarely,bachelors_degree,Marketing,low,high,three,Sales Executive,very_high,10096,No,low,one,best,7
+39,Yes,Non-Travel,bachelors_degree,Life Sciences,low,meduim,one,Laboratory Technician,low,3646,Yes,meduim,zero,best,1
+31,Yes,Travel_Frequently,Doctorate,Life Sciences,high,very_high,three,Manufacturing Director,meduim,7446,No,low,zero,better,10
+45,No,Travel_Rarely,bachelors_degree,Medical,meduim,low,three,Healthcare Representative,low,10851,Yes,meduim,one,better,7
+31,No,Travel_Rarely,some_college,Medical,very_high,very_high,one,Human Resources,meduim,2109,No,very_high,zero,better,3
+31,Yes,Travel_Frequently,bachelors_degree,Life Sciences,meduim,high,one,Laboratory Technician,very_high,3722,Yes,high,one,bad,2
+45,No,Travel_Rarely,bachelors_degree,Technical Degree,meduim,high,three,Manufacturing Director,very_high,9380,Yes,very_high,two,best,3
+48,No,Travel_Rarely,bachelors_degree,Marketing,high,high,two,Sales Executive,low,5486,No,low,three,better,2
+34,Yes,Travel_Rarely,masters_degree,Technical Degree,low,high,one,Human Resources,high,2742,No,very_high,zero,better,2
+40,No,Non-Travel,no_college,Medical,very_high,meduim,three,Research Director,meduim,13757,No,high,one,better,9
+28,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,two,Sales Executive,low,8463,No,very_high,zero,better,5
+44,No,Non-Travel,bachelors_degree,Life Sciences,high,meduim,one,Laboratory Technician,high,3162,No,very_high,zero,better,5
+53,No,Travel_Rarely,bachelors_degree,Medical,very_high,very_high,four,Research Director,meduim,16598,No,meduim,zero,good,9
+49,No,Travel_Rarely,masters_degree,Technical Degree,low,high,two,Healthcare Representative,high,6651,No,meduim,one,good,3
+40,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Research Scientist,high,2345,No,high,one,best,3
+44,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Research Scientist,meduim,3420,No,high,zero,good,5
+33,No,Travel_Frequently,bachelors_degree,Medical,very_high,high,two,Sales Executive,low,4373,No,low,two,better,4
+34,No,Travel_Rarely,bachelors_degree,Other,very_high,low,two,Sales Executive,low,4759,No,very_high,zero,better,13
+30,No,Travel_Rarely,no_college,Life Sciences,very_high,high,two,Sales Executive,high,5301,No,high,two,good,2
+42,No,Travel_Frequently,some_college,Medical,low,high,one,Laboratory Technician,very_high,3673,No,high,zero,better,12
+44,No,Travel_Frequently,Doctorate,Marketing,low,high,two,Sales Executive,high,4768,No,high,one,good,1
+30,No,Non-Travel,bachelors_degree,Technical Degree,high,high,one,Research Scientist,high,1274,No,meduim,two,good,1
+57,No,Travel_Rarely,some_college,Life Sciences,meduim,very_high,two,Research Scientist,high,4900,No,low,one,good,12
+49,No,Travel_Rarely,masters_degree,Life Sciences,high,high,three,Healthcare Representative,meduim,10466,No,meduim,two,better,8
+34,No,Travel_Frequently,bachelors_degree,Medical,meduim,high,four,Research Director,low,17007,No,very_high,two,good,14
+28,Yes,Travel_Frequently,bachelors_degree,Technical Degree,low,high,one,Sales Representative,high,2909,No,very_high,one,best,3
+29,Yes,Travel_Frequently,bachelors_degree,Technical Degree,low,high,two,Sales Executive,meduim,5765,No,low,zero,bad,5
+34,Yes,Travel_Rarely,masters_degree,Medical,low,meduim,two,Sales Executive,meduim,4599,Yes,high,zero,best,15
+35,No,Travel_Rarely,no_college,Life Sciences,very_high,high,one,Sales Representative,high,2404,No,low,one,better,1
+24,Yes,Travel_Frequently,bachelors_degree,Medical,meduim,high,one,Laboratory Technician,low,3172,Yes,high,zero,good,0
+24,No,Non-Travel,some_college,Life Sciences,very_high,high,one,Sales Representative,meduim,2033,No,high,one,better,1
+44,No,Travel_Frequently,no_college,Medical,meduim,high,three,Manufacturing Director,high,10209,Yes,meduim,zero,good,2
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,two,Sales Executive,high,8620,No,high,two,better,10
+30,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Human Resources,high,2064,No,low,one,best,5
+55,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,two,Healthcare Representative,high,4035,Yes,meduim,zero,better,3
+33,No,Travel_Rarely,masters_degree,Medical,low,meduim,one,Laboratory Technician,meduim,3838,No,very_high,zero,better,5
+47,No,Travel_Rarely,bachelors_degree,Medical,high,high,two,Sales Executive,high,4591,Yes,high,one,good,5
+28,Yes,Travel_Frequently,some_college,Medical,high,meduim,one,Laboratory Technician,low,2561,No,high,zero,good,0
+28,No,Travel_Rarely,bachelors_degree,Life Sciences,low,meduim,one,Research Scientist,high,1563,No,very_high,one,bad,1
+28,No,Travel_Frequently,bachelors_degree,Life Sciences,high,high,two,Sales Executive,low,4898,No,very_high,zero,better,4
+49,No,Travel_Rarely,some_college,Medical,high,meduim,two,Laboratory Technician,low,4789,No,low,one,better,3
+29,No,Travel_Frequently,no_college,Life Sciences,very_high,high,one,Laboratory Technician,meduim,3180,No,high,three,better,3
+28,No,Travel_Rarely,no_college,Life Sciences,high,low,two,Manufacturing Director,meduim,6549,No,meduim,two,good,8
+33,No,Travel_Rarely,Doctorate,Life Sciences,very_high,high,two,Healthcare Representative,high,6388,Yes,low,zero,better,0
+32,No,Travel_Rarely,bachelors_degree,Medical,high,high,three,Manager,very_high,11244,No,meduim,zero,best,5
+54,No,Travel_Frequently,masters_degree,Medical,meduim,high,four,Manager,very_high,16032,No,low,one,better,14
+29,Yes,Travel_Rarely,masters_degree,Technical Degree,low,meduim,one,Research Scientist,low,2362,No,high,zero,bad,9
+44,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,four,Research Director,low,16328,No,high,one,best,20
+39,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,three,Manufacturing Director,meduim,8376,No,very_high,zero,better,2
+46,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,four,Manager,meduim,16606,No,very_high,one,best,13
+35,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,three,Healthcare Representative,meduim,8606,No,very_high,zero,bad,11
+23,No,Travel_Rarely,no_college,Life Sciences,low,high,two,Laboratory Technician,high,2272,No,meduim,zero,better,4
+40,Yes,Travel_Rarely,masters_degree,Life Sciences,very_high,high,one,Laboratory Technician,low,2018,No,meduim,zero,bad,5
+34,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,meduim,three,Sales Executive,high,7083,Yes,very_high,zero,better,10
+31,Yes,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,one,Research Scientist,high,4084,No,low,zero,bad,7
+50,No,Travel_Frequently,Doctorate,Medical,high,low,four,Research Director,very_high,14411,Yes,very_high,zero,better,32
+34,No,Travel_Rarely,some_college,Technical Degree,meduim,high,one,Sales Representative,high,2308,Yes,meduim,one,better,11
+42,No,Travel_Rarely,bachelors_degree,Medical,high,meduim,one,Laboratory Technician,meduim,4841,No,meduim,one,better,1
+37,No,Travel_Rarely,bachelors_degree,Medical,low,high,two,Research Scientist,very_high,4285,No,low,zero,better,10
+29,No,Travel_Rarely,no_college,Other,high,low,two,Healthcare Representative,low,9715,No,high,one,better,7
+33,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,two,Manufacturing Director,meduim,4320,No,very_high,zero,better,5
+45,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,one,Research Scientist,very_high,2132,No,very_high,one,better,5
+42,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,three,Healthcare Representative,very_high,10124,Yes,high,one,bad,20
+40,No,Travel_Rarely,some_college,Medical,low,high,two,Sales Executive,low,5473,No,very_high,zero,best,8
+33,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,two,Laboratory Technician,high,5207,Yes,meduim,one,better,15
+40,No,Travel_Rarely,some_college,Medical,high,high,four,Manager,very_high,16437,Yes,very_high,zero,better,21
+24,No,Travel_Rarely,some_college,Technical Degree,high,meduim,one,Laboratory Technician,low,2296,No,meduim,three,better,1
+40,No,Non-Travel,some_college,Life Sciences,very_high,high,two,Healthcare Representative,very_high,4069,Yes,high,zero,better,2
+45,No,Travel_Rarely,masters_degree,Technical Degree,low,high,three,Healthcare Representative,meduim,7441,No,low,three,better,10
+35,No,Travel_Rarely,masters_degree,Life Sciences,meduim,meduim,one,Sales Representative,high,2430,No,low,two,better,5
+32,No,Travel_Rarely,some_college,Life Sciences,very_high,meduim,two,Research Scientist,meduim,5878,No,low,one,better,7
+36,No,Travel_Rarely,masters_degree,Life Sciences,high,high,one,Sales Representative,very_high,2644,Yes,very_high,zero,good,3
+48,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Sales Executive,high,6439,No,high,one,better,8
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,high,very_high,one,Research Scientist,high,2451,No,low,two,good,1
+33,No,Travel_Rarely,masters_degree,Life Sciences,low,high,two,Sales Executive,low,6392,No,very_high,one,bad,2
+30,Yes,Travel_Rarely,bachelors_degree,Life Sciences,meduim,meduim,two,Sales Executive,low,9714,No,very_high,one,better,10
+38,No,Travel_Frequently,masters_degree,Human Resources,high,high,two,Human Resources,high,6077,No,high,zero,better,6
+35,No,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,one,Laboratory Technician,low,2450,No,meduim,zero,better,3
+30,No,Travel_Rarely,masters_degree,Technical Degree,high,high,three,Sales Executive,meduim,9250,No,meduim,one,better,4
+35,Yes,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Laboratory Technician,low,2074,Yes,very_high,one,better,1
+53,Yes,Travel_Rarely,Doctorate,Technical Degree,high,meduim,three,Manufacturing Director,very_high,10169,No,meduim,one,better,33
+38,Yes,Travel_Rarely,bachelors_degree,Medical,high,high,two,Manufacturing Director,meduim,4855,No,low,two,better,5
+32,No,Non-Travel,masters_degree,Technical Degree,very_high,high,two,Research Scientist,low,4087,No,meduim,one,good,6
+48,No,Travel_Rarely,masters_degree,Other,high,high,one,Research Scientist,low,2367,No,very_high,one,good,8
+34,No,Travel_Rarely,masters_degree,Medical,low,high,one,Research Scientist,very_high,2972,No,high,zero,bad,1
+55,No,Travel_Rarely,Doctorate,Marketing,high,meduim,five,Manager,very_high,19586,No,high,one,better,36
+34,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,two,Research Scientist,very_high,5484,No,meduim,one,good,2
+26,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Research Scientist,very_high,2061,No,low,zero,better,1
+38,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,two,Sales Executive,meduim,9924,No,very_high,one,better,9
+38,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,two,Sales Executive,meduim,4198,No,meduim,zero,best,3
+36,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,two,Sales Executive,high,6815,No,low,zero,better,1
+29,No,Travel_Rarely,no_college,Medical,meduim,high,one,Laboratory Technician,low,4723,Yes,very_high,zero,better,10
+35,No,Travel_Rarely,masters_degree,Medical,low,high,two,Healthcare Representative,high,6142,Yes,high,zero,better,5
+39,No,Travel_Rarely,bachelors_degree,Medical,very_high,very_high,three,Sales Executive,high,8237,No,low,one,better,7
+29,No,Travel_Frequently,no_college,Life Sciences,low,high,two,Healthcare Representative,very_high,8853,No,very_high,one,best,6
+50,No,Travel_Rarely,bachelors_degree,Marketing,high,high,five,Manager,high,19331,Yes,high,one,better,1
+23,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,very_high,one,Research Scientist,high,2073,No,very_high,one,better,2
+36,No,Travel_Frequently,masters_degree,Life Sciences,low,very_high,two,Laboratory Technician,low,5562,Yes,very_high,one,better,3
+42,No,Travel_Rarely,some_college,Other,very_high,meduim,five,Manager,very_high,19613,No,very_high,zero,better,1
+35,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,very_high,two,Laboratory Technician,high,3407,No,very_high,two,good,10
+34,No,Travel_Frequently,masters_degree,Technical Degree,very_high,meduim,two,Healthcare Representative,high,5063,No,meduim,one,good,8
+40,No,Travel_Rarely,some_college,Life Sciences,very_high,high,two,Sales Executive,low,4639,No,high,one,better,5
+43,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,very_high,one,Laboratory Technician,meduim,4876,No,high,one,better,6
+35,No,Travel_Rarely,some_college,Life Sciences,high,meduim,one,Laboratory Technician,very_high,2690,No,very_high,one,good,1
+46,No,Travel_Rarely,masters_degree,Life Sciences,very_high,very_high,four,Manager,low,17567,No,meduim,zero,bad,26
+28,Yes,Travel_Rarely,bachelors_degree,Medical,high,high,one,Laboratory Technician,meduim,2408,Yes,high,three,better,1
+22,No,Non-Travel,some_college,Other,meduim,meduim,one,Research Scientist,high,2814,Yes,meduim,zero,good,4
+50,No,Travel_Frequently,Doctorate,Medical,meduim,high,four,Healthcare Representative,high,11245,Yes,high,one,better,30
+32,No,Travel_Rarely,masters_degree,Other,meduim,very_high,one,Research Scientist,very_high,3312,No,very_high,two,better,3
+44,No,Travel_Rarely,bachelors_degree,Medical,meduim,high,five,Research Director,very_high,19049,Yes,very_high,one,good,22
+30,No,Travel_Rarely,bachelors_degree,Medical,meduim,meduim,one,Research Scientist,meduim,2141,No,meduim,one,good,6
+45,No,Travel_Rarely,Doctorate,Medical,high,low,two,Laboratory Technician,low,5769,Yes,low,zero,better,10
+45,No,Non-Travel,bachelors_degree,Marketing,low,meduim,two,Sales Executive,low,4385,No,low,one,better,10
+31,No,Travel_Frequently,masters_degree,Other,very_high,high,two,Sales Executive,low,5332,No,very_high,zero,better,5
+36,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Manufacturing Director,high,4663,Yes,meduim,two,better,3
+34,No,Travel_Frequently,masters_degree,Life Sciences,high,very_high,two,Manufacturing Director,very_high,4724,No,low,one,better,9
+49,No,Travel_Rarely,masters_degree,Life Sciences,high,high,one,Laboratory Technician,low,3211,No,very_high,one,good,9
+39,No,Travel_Rarely,Doctorate,Medical,meduim,high,two,Manufacturing Director,low,5377,No,very_high,three,better,7
+27,No,Travel_Rarely,bachelors_degree,Other,very_high,meduim,one,Laboratory Technician,low,4066,No,low,two,better,7
+35,No,Travel_Rarely,Doctorate,Life Sciences,meduim,very_high,two,Research Scientist,low,5208,No,very_high,zero,better,16
+28,No,Travel_Rarely,bachelors_degree,Medical,meduim,low,two,Manufacturing Director,low,4877,No,meduim,one,good,5
+21,No,Travel_Rarely,no_college,Medical,high,high,one,Research Scientist,very_high,3117,No,high,zero,better,2
+18,Yes,Travel_Frequently,some_college,Medical,meduim,high,one,Sales Representative,very_high,1569,Yes,high,zero,best,0
+47,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,five,Manager,high,19658,No,high,one,better,5
+39,No,Travel_Rarely,some_college,Medical,high,meduim,two,Laboratory Technician,high,3069,No,very_high,one,better,10
+40,No,Travel_Rarely,bachelors_degree,Life Sciences,low,meduim,three,Manufacturing Director,high,10435,No,very_high,two,better,18
+35,No,Non-Travel,masters_degree,Life Sciences,high,high,two,Healthcare Representative,high,4148,No,very_high,one,better,14
+37,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,two,Manufacturing Director,high,5768,No,low,three,good,4
+39,No,Travel_Frequently,bachelors_degree,Medical,low,high,two,Manufacturing Director,high,5042,No,very_high,zero,bad,9
+45,No,Travel_Rarely,some_college,Other,very_high,meduim,two,Manufacturing Director,very_high,5770,No,low,two,better,10
+38,No,Travel_Rarely,some_college,Medical,very_high,meduim,three,Manufacturing Director,high,7756,Yes,very_high,one,best,5
+35,Yes,Travel_Rarely,bachelors_degree,Medical,very_high,meduim,three,Sales Executive,low,10306,No,high,zero,better,13
+37,No,Travel_Rarely,bachelors_degree,Medical,meduim,high,one,Research Scientist,meduim,3936,No,low,one,bad,8
+40,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,three,Manufacturing Director,very_high,7945,Yes,very_high,zero,good,4
+44,No,Travel_Frequently,Doctorate,Human Resources,low,high,two,Human Resources,very_high,5743,Yes,high,zero,better,10
+48,No,Travel_Frequently,Doctorate,Medical,high,meduim,four,Manager,very_high,15202,No,meduim,one,better,2
+35,Yes,Travel_Rarely,some_college,Medical,low,low,two,Sales Executive,very_high,5440,Yes,very_high,two,good,2
+24,No,Travel_Frequently,no_college,Technical Degree,low,high,one,Research Scientist,very_high,3760,Yes,high,zero,better,6
+27,No,Travel_Rarely,bachelors_degree,Medical,meduim,very_high,one,Research Scientist,high,3517,No,low,zero,better,3
+27,No,Travel_Frequently,bachelors_degree,Medical,very_high,high,one,Research Scientist,very_high,2580,No,high,zero,good,4
+40,Yes,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Laboratory Technician,low,2166,Yes,meduim,zero,bad,4
+29,No,Travel_Rarely,bachelors_degree,Medical,high,meduim,two,Sales Executive,high,5869,No,high,zero,better,5
+36,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,three,Healthcare Representative,low,8008,No,high,two,better,3
+25,No,Travel_Frequently,no_college,Life Sciences,very_high,very_high,two,Manufacturing Director,high,5206,No,high,two,better,7
+39,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,two,Manufacturing Director,meduim,5295,No,high,zero,better,5
+49,No,Travel_Rarely,masters_degree,Other,low,high,four,Research Director,meduim,16413,No,meduim,two,better,4
+50,No,Travel_Rarely,Doctorate,Life Sciences,very_high,meduim,three,Research Director,low,13269,No,high,three,better,14
+20,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Sales Representative,high,2783,No,low,zero,better,2
+34,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,two,Research Scientist,meduim,5433,No,high,one,better,11
+36,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,one,Laboratory Technician,meduim,2013,No,high,zero,better,4
+49,No,Travel_Rarely,no_college,Life Sciences,high,meduim,four,Healthcare Representative,high,13966,Yes,meduim,one,better,15
+36,No,Non-Travel,masters_degree,Medical,very_high,meduim,two,Manufacturing Director,high,4374,No,high,zero,better,3
+36,No,Travel_Rarely,some_college,Life Sciences,very_high,very_high,two,Healthcare Representative,low,6842,No,low,one,better,5
+54,No,Travel_Rarely,Doctorate,Medical,meduim,high,four,Manager,high,17426,No,high,one,better,10
+43,No,Travel_Rarely,some_college,Life Sciences,high,meduim,four,Research Director,high,17603,No,low,one,better,14
+35,Yes,Travel_Frequently,masters_degree,Other,very_high,high,two,Sales Executive,very_high,4581,Yes,low,zero,best,11
+38,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,high,two,Research Scientist,very_high,4735,No,very_high,two,best,13
+29,No,Travel_Rarely,bachelors_degree,Medical,low,meduim,two,Sales Executive,meduim,4187,Yes,meduim,one,good,10
+33,No,Travel_Rarely,masters_degree,Medical,very_high,high,two,Sales Executive,very_high,5505,No,high,two,better,6
+32,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,two,Research Scientist,meduim,5470,No,high,two,good,9
+31,No,Travel_Rarely,masters_degree,Life Sciences,low,high,two,Sales Executive,very_high,5476,No,low,two,better,10
+49,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,one,Laboratory Technician,low,2587,Yes,meduim,one,good,2
+38,No,Travel_Frequently,bachelors_degree,Medical,very_high,meduim,one,Laboratory Technician,meduim,2440,No,meduim,zero,better,4
+47,No,Travel_Rarely,masters_degree,Life Sciences,meduim,very_high,four,Manager,meduim,15972,No,high,three,better,3
+49,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,four,Manager,high,15379,No,low,zero,better,8
+41,No,Travel_Rarely,some_college,Life Sciences,very_high,high,three,Sales Executive,high,7082,Yes,very_high,zero,better,2
+20,No,Travel_Rarely,no_college,Life Sciences,very_high,high,one,Sales Representative,low,2728,No,low,zero,better,2
+33,No,Non-Travel,bachelors_degree,Life Sciences,high,high,two,Sales Executive,very_high,5368,Yes,high,one,better,6
+36,No,Travel_Rarely,masters_degree,Life Sciences,low,high,two,Healthcare Representative,high,5347,No,meduim,two,good,3
+44,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Human Resources,very_high,3195,Yes,low,three,better,2
+23,Yes,Travel_Rarely,no_college,Medical,very_high,meduim,one,Laboratory Technician,high,3989,Yes,low,zero,better,5
+38,No,Travel_Rarely,some_college,Medical,very_high,high,one,Laboratory Technician,high,3306,No,very_high,one,good,0
+53,No,Travel_Rarely,masters_degree,Medical,meduim,very_high,three,Healthcare Representative,very_high,7005,No,high,zero,better,4
+48,Yes,Travel_Frequently,some_college,Medical,very_high,high,one,Sales Representative,high,2655,Yes,high,two,better,9
+32,Yes,Travel_Rarely,masters_degree,Life Sciences,very_high,high,one,Laboratory Technician,meduim,1393,No,low,zero,better,1
+26,No,Non-Travel,bachelors_degree,Medical,very_high,high,one,Laboratory Technician,very_high,2570,No,high,zero,better,7
+55,No,Travel_Rarely,bachelors_degree,Technical Degree,low,meduim,one,Research Scientist,meduim,3537,No,very_high,one,better,4
+34,No,Travel_Rarely,some_college,Medical,meduim,meduim,two,Laboratory Technician,very_high,3986,No,high,one,best,15
+60,No,Travel_Rarely,masters_degree,Medical,high,low,three,Healthcare Representative,very_high,10883,No,high,one,best,1
+33,No,Travel_Rarely,bachelors_degree,Medical,meduim,very_high,one,Laboratory Technician,meduim,2028,No,very_high,three,better,14
+37,No,Travel_Frequently,masters_degree,Medical,high,low,two,Sales Executive,very_high,9525,No,high,two,good,6
+34,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,meduim,one,Research Scientist,very_high,2929,No,meduim,zero,better,10
+23,Yes,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Sales Representative,very_high,2275,Yes,meduim,one,better,3
+44,No,Travel_Rarely,bachelors_degree,Life Sciences,high,very_high,three,Healthcare Representative,very_high,7879,Yes,meduim,one,better,8
+35,No,Travel_Frequently,masters_degree,Medical,low,meduim,one,Research Scientist,very_high,4930,Yes,high,zero,best,5
+43,No,Travel_Rarely,bachelors_degree,Medical,very_high,high,two,Sales Executive,very_high,7847,Yes,low,one,better,10
+24,No,Travel_Rarely,bachelors_degree,Medical,high,very_high,one,Research Scientist,high,4401,No,very_high,one,better,5
+41,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,three,Sales Executive,high,9241,No,meduim,zero,better,10
+29,No,Travel_Rarely,masters_degree,Medical,very_high,high,one,Laboratory Technician,high,2974,No,high,one,better,5
+36,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Sales Representative,very_high,4502,No,high,zero,good,13
+45,No,Non-Travel,no_college,Life Sciences,high,meduim,three,Healthcare Representative,high,10748,No,very_high,one,good,23
+24,Yes,Travel_Rarely,no_college,Human Resources,very_high,low,one,Human Resources,high,1555,No,high,one,better,1
+47,Yes,Travel_Frequently,bachelors_degree,Life Sciences,high,low,four,Sales Executive,high,12936,No,high,zero,bad,23
+26,No,Travel_Rarely,masters_degree,Medical,very_high,low,one,Laboratory Technician,high,2305,No,high,three,best,3
+45,No,Travel_Rarely,some_college,Technical Degree,very_high,meduim,four,Research Director,meduim,16704,No,high,zero,better,21
+32,No,Travel_Frequently,bachelors_degree,Life Sciences,low,high,one,Research Scientist,high,3433,No,low,one,good,5
+31,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,one,Laboratory Technician,high,3477,No,very_high,one,best,5
+41,No,Non-Travel,bachelors_degree,Human Resources,high,low,two,Human Resources,meduim,6430,No,meduim,one,better,3
+40,No,Travel_Rarely,some_college,Life Sciences,meduim,high,two,Manufacturing Director,low,6516,Yes,meduim,one,better,1
+24,No,Travel_Rarely,no_college,Medical,meduim,high,one,Laboratory Technician,low,3907,No,meduim,three,best,6
+46,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Healthcare Representative,meduim,5562,No,very_high,zero,better,10
+35,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,two,Manufacturing Director,high,6883,No,meduim,one,better,7
+30,No,Travel_Rarely,no_college,Life Sciences,meduim,high,one,Research Scientist,very_high,2862,No,meduim,one,good,10
+47,No,Non-Travel,masters_degree,Marketing,high,high,two,Sales Executive,meduim,4978,No,very_high,one,bad,1
+46,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,three,Sales Executive,very_high,10368,Yes,meduim,one,good,10
+36,Yes,Travel_Rarely,Doctorate,Marketing,meduim,meduim,two,Sales Executive,low,6134,Yes,meduim,three,better,2
+32,Yes,Travel_Rarely,some_college,Life Sciences,low,low,two,Sales Executive,meduim,6735,No,meduim,zero,better,0
+23,No,Travel_Rarely,no_college,Medical,high,high,one,Laboratory Technician,meduim,3295,No,high,zero,bad,3
+31,No,Travel_Frequently,no_college,Technical Degree,very_high,high,two,Manufacturing Director,very_high,5238,No,very_high,zero,good,5
+39,No,Non-Travel,bachelors_degree,Life Sciences,very_high,high,two,Laboratory Technician,very_high,6472,Yes,very_high,one,better,9
+32,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,low,three,Sales Executive,high,9610,No,high,one,bad,4
+40,No,Travel_Rarely,masters_degree,Medical,meduim,high,five,Manager,meduim,19833,No,meduim,zero,good,21
+45,No,Travel_Rarely,bachelors_degree,Life Sciences,high,low,three,Human Resources,high,9756,No,high,two,best,5
+30,No,Travel_Frequently,masters_degree,Technical Degree,very_high,meduim,one,Research Scientist,low,4968,No,very_high,zero,better,9
+24,No,Travel_Frequently,bachelors_degree,Medical,low,high,one,Human Resources,very_high,2145,No,very_high,one,better,2
+30,Yes,Travel_Frequently,bachelors_degree,Human Resources,high,meduim,one,Human Resources,very_high,2180,No,high,one,good,4
+31,No,Travel_Rarely,bachelors_degree,Technical Degree,low,high,two,Sales Executive,high,8346,No,high,one,better,5
+27,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Research Scientist,very_high,3445,No,high,zero,good,6
+29,Yes,Travel_Rarely,bachelors_degree,Marketing,meduim,low,one,Sales Representative,meduim,2760,No,high,zero,better,2
+29,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,very_high,two,Healthcare Representative,high,6294,Yes,very_high,zero,best,3
+30,No,Travel_Rarely,some_college,Marketing,high,meduim,three,Sales Executive,low,7140,No,low,one,better,7
+34,No,Travel_Rarely,masters_degree,Medical,very_high,very_high,one,Research Scientist,very_high,2932,Yes,low,three,better,5
+33,No,Non-Travel,bachelors_degree,Marketing,very_high,high,two,Sales Executive,meduim,5147,No,very_high,zero,good,11
+49,No,Travel_Rarely,masters_degree,Marketing,very_high,high,two,Sales Executive,very_high,4507,No,high,zero,best,5
+33,Yes,Travel_Rarely,bachelors_degree,Life Sciences,low,high,three,Sales Executive,low,8564,Yes,high,zero,good,0
+38,No,Travel_Frequently,some_college,Medical,high,meduim,one,Laboratory Technician,meduim,2468,No,meduim,one,good,6
+31,Yes,Travel_Rarely,masters_degree,Marketing,low,high,three,Sales Executive,high,8161,No,low,three,better,1
+29,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,meduim,one,Research Scientist,low,2109,No,high,one,better,1
+30,No,Travel_Rarely,bachelors_degree,Life Sciences,high,very_high,two,Healthcare Representative,high,5294,No,high,one,better,7
+32,No,Non-Travel,masters_degree,Technical Degree,meduim,high,one,Research Scientist,meduim,2718,No,meduim,zero,better,7
+38,No,Travel_Rarely,bachelors_degree,Medical,meduim,low,two,Healthcare Representative,very_high,5811,Yes,high,one,better,1
+43,Yes,Travel_Frequently,bachelors_degree,Technical Degree,high,meduim,one,Research Scientist,high,2437,Yes,very_high,one,better,1
+42,No,Travel_Rarely,bachelors_degree,Medical,meduim,high,one,Laboratory Technician,meduim,2766,No,meduim,three,good,5
+55,No,Travel_Rarely,bachelors_degree,Medical,high,meduim,five,Research Director,low,19038,No,meduim,three,better,1
+33,No,Non-Travel,bachelors_degree,Technical Degree,very_high,high,two,Research Scientist,meduim,3055,No,very_high,two,good,9
+41,No,Travel_Rarely,masters_degree,Life Sciences,high,high,one,Laboratory Technician,low,2289,No,meduim,two,better,5
+34,No,Non-Travel,bachelors_degree,Life Sciences,very_high,high,two,Sales Executive,high,4001,Yes,high,one,better,15
+53,No,Non-Travel,masters_degree,Medical,low,meduim,four,Manufacturing Director,high,12965,Yes,very_high,three,good,3
+43,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,one,Human Resources,very_high,3539,No,meduim,zero,better,9
+34,No,Travel_Rarely,some_college,Life Sciences,very_high,low,two,Sales Executive,very_high,6029,No,low,zero,better,2
+21,Yes,Travel_Rarely,no_college,Marketing,meduim,high,one,Sales Representative,meduim,2679,No,meduim,zero,better,1
+38,No,Travel_Rarely,some_college,Other,very_high,meduim,one,Laboratory Technician,high,3702,No,meduim,one,better,5
+22,Yes,Travel_Rarely,no_college,Medical,high,high,one,Laboratory Technician,low,2398,Yes,high,zero,better,1
+31,No,Travel_Rarely,masters_degree,Marketing,low,meduim,two,Sales Executive,very_high,5468,No,low,two,better,12
+51,No,Travel_Rarely,bachelors_degree,Technical Degree,low,high,three,Manager,high,13116,No,very_high,zero,better,2
+37,No,Travel_Rarely,some_college,Marketing,meduim,meduim,two,Sales Executive,meduim,4189,No,low,two,better,5
+46,No,Travel_Rarely,masters_degree,Medical,high,high,five,Research Director,very_high,19328,Yes,high,one,better,2
+36,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,three,Healthcare Representative,low,8321,Yes,very_high,one,better,12
+44,Yes,Travel_Frequently,some_college,Medical,high,high,one,Research Scientist,meduim,2342,Yes,high,three,good,5
+37,No,Travel_Rarely,some_college,Other,high,high,two,Human Resources,meduim,4071,No,high,zero,good,10
+35,Yes,Travel_Rarely,bachelors_degree,Life Sciences,high,high,two,Sales Executive,very_high,5813,Yes,very_high,zero,better,10
+33,No,Travel_Rarely,masters_degree,Life Sciences,very_high,very_high,one,Research Scientist,low,3143,No,meduim,one,better,10
+28,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,one,Research Scientist,very_high,2044,No,high,one,best,5
+39,No,Travel_Rarely,no_college,Medical,high,high,three,Research Director,high,13464,No,high,zero,better,4
+46,No,Non-Travel,some_college,Life Sciences,meduim,meduim,two,Sales Executive,meduim,7991,No,high,zero,better,2
+40,No,Travel_Rarely,some_college,Life Sciences,high,high,one,Laboratory Technician,low,3377,No,very_high,one,good,4
+42,No,Travel_Rarely,bachelors_degree,Medical,meduim,very_high,two,Healthcare Representative,low,5538,No,high,two,good,0
+35,No,Non-Travel,some_college,Medical,meduim,high,two,Manufacturing Director,very_high,5762,No,high,one,better,7
+38,No,Non-Travel,bachelors_degree,Human Resources,low,high,one,Human Resources,meduim,2592,No,very_high,three,better,11
+34,Yes,Travel_Frequently,masters_degree,Life Sciences,very_high,high,two,Laboratory Technician,low,5346,No,high,one,good,7
+37,Yes,Travel_Rarely,masters_degree,Medical,very_high,high,two,Manufacturing Director,low,4213,No,meduim,zero,bad,10
+39,No,Travel_Frequently,bachelors_degree,Life Sciences,high,high,two,Sales Executive,very_high,4127,No,very_high,one,better,2
+43,No,Non-Travel,bachelors_degree,Life Sciences,low,high,one,Research Scientist,high,2438,No,high,zero,good,3
+41,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,very_high,two,Healthcare Representative,meduim,6870,No,low,zero,bad,3
+41,No,Travel_Rarely,no_college,Marketing,high,high,three,Sales Executive,high,10447,Yes,very_high,one,best,22
+30,No,Travel_Rarely,bachelors_degree,Medical,low,high,three,Manufacturing Director,high,9667,No,meduim,zero,better,7
+26,Yes,Travel_Rarely,some_college,Medical,very_high,high,one,Human Resources,meduim,2148,Yes,high,zero,better,5
+46,Yes,Travel_Rarely,some_college,Medical,very_high,high,two,Healthcare Representative,meduim,8926,No,very_high,one,best,9
+40,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,two,Healthcare Representative,very_high,6513,No,very_high,one,better,5
+34,No,Travel_Rarely,some_college,Technical Degree,meduim,very_high,two,Sales Executive,high,6799,No,high,two,better,10
+58,No,Non-Travel,bachelors_degree,Medical,meduim,high,four,Manager,meduim,16291,No,very_high,one,good,16
+35,No,Travel_Rarely,masters_degree,Medical,meduim,low,one,Laboratory Technician,high,2705,No,meduim,one,best,5
+47,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,three,Manufacturing Director,meduim,10333,Yes,high,one,better,22
+40,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,two,Healthcare Representative,low,4448,No,meduim,one,better,7
+54,No,Travel_Rarely,masters_degree,Medical,very_high,high,two,Research Scientist,very_high,6854,No,meduim,one,good,7
+31,No,Travel_Frequently,masters_degree,Marketing,low,high,three,Sales Executive,low,9637,No,very_high,two,better,3
+28,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Research Scientist,low,3591,No,high,one,better,3
+38,No,Travel_Rarely,masters_degree,Marketing,meduim,low,two,Sales Representative,very_high,5405,Yes,low,two,good,4
+26,No,Travel_Rarely,bachelors_degree,Medical,high,high,two,Sales Executive,very_high,4684,No,low,zero,better,5
+58,No,Travel_Frequently,masters_degree,Life Sciences,low,high,four,Research Director,high,15787,Yes,meduim,zero,better,2
+18,No,Non-Travel,bachelors_degree,Medical,meduim,high,one,Research Scientist,high,1514,No,high,zero,bad,0
+31,Yes,Travel_Rarely,Doctorate,Human Resources,very_high,very_high,one,Human Resources,low,2956,No,high,zero,better,1
+29,Yes,Travel_Rarely,bachelors_degree,Human Resources,low,meduim,one,Human Resources,low,2335,Yes,very_high,three,better,2
+45,No,Non-Travel,masters_degree,Life Sciences,high,high,two,Sales Executive,high,5154,No,meduim,two,best,8
+36,No,Travel_Rarely,masters_degree,Other,very_high,high,two,Research Scientist,meduim,6962,Yes,very_high,one,better,1
+43,No,Travel_Frequently,masters_degree,Life Sciences,low,high,two,Sales Executive,very_high,5675,No,high,one,better,7
+27,No,Travel_Frequently,some_college,Life Sciences,very_high,high,one,Laboratory Technician,very_high,2379,Yes,high,zero,good,5
+29,No,Travel_Frequently,no_college,Medical,very_high,high,one,Laboratory Technician,very_high,3812,No,meduim,zero,best,11
+32,No,Travel_Frequently,masters_degree,Marketing,very_high,high,two,Sales Executive,very_high,4648,No,high,zero,best,0
+42,No,Non-Travel,masters_degree,Technical Degree,high,high,one,Research Scientist,high,2936,No,meduim,two,good,6
+47,No,Travel_Rarely,masters_degree,Life Sciences,meduim,high,one,Laboratory Technician,high,2105,No,high,zero,better,2
+46,No,Travel_Rarely,some_college,Life Sciences,very_high,high,three,Manufacturing Director,very_high,8578,No,high,one,good,9
+28,No,Non-Travel,some_college,Life Sciences,high,high,one,Human Resources,very_high,2706,No,meduim,one,better,3
+29,No,Travel_Rarely,no_college,Life Sciences,very_high,low,two,Healthcare Representative,high,6384,No,very_high,two,better,7
+42,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Laboratory Technician,high,3968,No,very_high,zero,better,0
+32,Yes,Travel_Rarely,masters_degree,Marketing,high,meduim,two,Sales Executive,meduim,9907,Yes,high,zero,good,2
+46,No,Travel_Rarely,bachelors_degree,Technical Degree,low,very_high,four,Sales Executive,low,13225,No,very_high,one,better,19
+27,No,Travel_Rarely,no_college,Medical,meduim,meduim,two,Sales Representative,high,3540,No,very_high,one,better,9
+29,No,Travel_Rarely,no_college,Medical,very_high,meduim,one,Human Resources,meduim,2804,No,very_high,zero,better,1
+43,No,Travel_Rarely,bachelors_degree,Medical,low,meduim,five,Manager,high,19392,No,very_high,zero,better,16
+48,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,meduim,five,Research Director,meduim,19665,No,very_high,zero,better,22
+29,Yes,Travel_Frequently,some_college,Life Sciences,very_high,meduim,one,Research Scientist,very_high,2439,Yes,meduim,zero,good,1
+46,Yes,Travel_Rarely,bachelors_degree,Life Sciences,high,high,three,Sales Executive,meduim,7314,No,high,three,better,8
+27,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,meduim,one,Research Scientist,low,4774,No,very_high,one,good,7
+39,No,Travel_Rarely,masters_degree,Other,very_high,high,two,Research Scientist,very_high,3902,No,meduim,three,better,2
+55,No,Travel_Rarely,masters_degree,Technical Degree,meduim,meduim,one,Research Scientist,very_high,2662,No,meduim,one,best,5
+28,No,Travel_Rarely,bachelors_degree,Medical,meduim,high,one,Sales Representative,meduim,2856,No,very_high,one,better,1
+30,Yes,Travel_Rarely,bachelors_degree,Medical,meduim,high,one,Sales Representative,very_high,1081,No,high,zero,good,1
+22,Yes,Travel_Rarely,no_college,Life Sciences,very_high,high,one,Research Scientist,meduim,2472,Yes,low,zero,better,1
+36,No,Travel_Rarely,masters_degree,Technical Degree,meduim,meduim,two,Sales Executive,high,5673,Yes,low,one,better,10
+31,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,high,two,Laboratory Technician,high,4197,No,low,one,better,10
+34,No,Travel_Rarely,bachelors_degree,Life Sciences,high,high,three,Sales Executive,very_high,9713,Yes,very_high,three,better,5
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Laboratory Technician,low,2062,No,meduim,zero,better,3
+37,No,Travel_Rarely,masters_degree,Medical,very_high,high,two,Research Scientist,low,4284,Yes,high,one,better,5
+35,No,Travel_Rarely,some_college,Other,very_high,meduim,two,Manufacturing Director,meduim,4788,Yes,very_high,zero,better,3
+45,No,Travel_Rarely,some_college,Life Sciences,meduim,meduim,two,Manufacturing Director,very_high,5906,No,very_high,two,good,9
+36,No,Travel_Frequently,no_college,Human Resources,meduim,meduim,two,Human Resources,very_high,3886,No,very_high,zero,good,10
+40,No,Travel_Rarely,masters_degree,Life Sciences,low,high,four,Manager,low,16823,No,low,one,better,19
+26,No,Travel_Rarely,some_college,Life Sciences,meduim,meduim,one,Research Scientist,high,2933,Yes,high,one,good,1
+27,No,Travel_Rarely,some_college,Medical,low,very_high,two,Sales Executive,high,6500,No,meduim,zero,good,8
+48,No,Travel_Frequently,bachelors_degree,Medical,very_high,high,four,Manager,very_high,17174,No,meduim,one,better,22
+44,No,Travel_Rarely,masters_degree,Life Sciences,meduim,very_high,two,Healthcare Representative,low,5033,No,very_high,one,better,2
+34,Yes,Non-Travel,masters_degree,Technical Degree,very_high,low,one,Research Scientist,low,2307,Yes,meduim,one,better,5
+56,Yes,Travel_Rarely,some_college,Life Sciences,low,high,one,Laboratory Technician,very_high,2587,No,very_high,zero,better,4
+36,No,Travel_Rarely,some_college,Marketing,high,meduim,two,Sales Executive,meduim,5507,No,high,two,bad,4
+41,No,Travel_Rarely,bachelors_degree,Marketing,high,high,two,Sales Executive,meduim,4393,No,high,one,better,5
+42,No,Travel_Rarely,bachelors_degree,Medical,high,high,three,Research Director,low,13348,No,meduim,one,best,13
+31,No,Travel_Rarely,some_college,Medical,high,high,two,Sales Executive,very_high,6583,Yes,very_high,one,better,5
+34,No,Travel_Rarely,no_college,Medical,very_high,meduim,two,Sales Executive,very_high,8103,Yes,high,zero,good,4
+31,No,Travel_Rarely,bachelors_degree,Medical,low,very_high,one,Laboratory Technician,high,3978,No,meduim,one,good,2
+26,No,Travel_Frequently,bachelors_degree,Other,high,very_high,one,Laboratory Technician,very_high,2544,No,low,one,better,7
+45,No,Travel_Frequently,masters_degree,Medical,meduim,high,two,Healthcare Representative,high,5399,No,high,zero,better,4
+33,No,Travel_Rarely,masters_degree,Marketing,meduim,high,two,Sales Executive,high,5487,No,meduim,zero,good,10
+28,No,Travel_Frequently,some_college,Life Sciences,high,meduim,two,Sales Executive,very_high,6834,Yes,high,one,better,7
+29,Yes,Travel_Frequently,bachelors_degree,Technical Degree,high,very_high,one,Sales Representative,low,1091,No,very_high,zero,better,1
+39,No,Non-Travel,masters_degree,Life Sciences,low,low,two,Sales Executive,high,5736,No,high,one,better,3
+27,No,Travel_Rarely,masters_degree,Technical Degree,meduim,high,one,Research Scientist,meduim,2226,No,high,one,good,5
+34,No,Travel_Frequently,masters_degree,Other,high,meduim,two,Research Scientist,very_high,5747,Yes,meduim,zero,better,15
+28,Yes,Travel_Rarely,some_college,Marketing,very_high,high,two,Sales Executive,high,9854,Yes,very_high,zero,better,2
+47,No,Non-Travel,masters_degree,Technical Degree,high,high,two,Research Scientist,meduim,5467,No,high,one,best,8
+56,No,Travel_Rarely,Doctorate,Marketing,very_high,meduim,two,Sales Executive,low,5380,No,high,one,better,0
+39,No,Travel_Rarely,some_college,Medical,low,high,two,Manufacturing Director,low,5151,No,very_high,one,better,10
+38,No,Travel_Frequently,bachelors_degree,Medical,very_high,meduim,two,Research Scientist,meduim,2133,Yes,high,one,better,20
+58,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,four,Manager,very_high,17875,Yes,high,one,good,1
+32,Yes,Travel_Frequently,some_college,Life Sciences,low,very_high,one,Research Scientist,high,2432,Yes,low,zero,better,4
+38,No,Travel_Rarely,some_college,Life Sciences,meduim,high,one,Research Scientist,very_high,4771,No,very_high,two,best,5
+49,No,Travel_Frequently,no_college,Life Sciences,meduim,high,five,Research Director,very_high,19161,No,very_high,zero,better,5
+42,No,Travel_Rarely,masters_degree,Marketing,meduim,high,two,Sales Executive,very_high,5087,Yes,high,two,better,0
+27,Yes,Travel_Frequently,bachelors_degree,Human Resources,low,meduim,one,Human Resources,meduim,2863,No,low,zero,better,1
+35,No,Travel_Rarely,masters_degree,Medical,meduim,high,two,Sales Executive,low,5561,No,very_high,one,bad,5
+28,No,Non-Travel,bachelors_degree,Medical,high,high,one,Research Scientist,high,2144,No,high,zero,good,5
+31,No,Non-Travel,some_college,Medical,high,high,one,Research Scientist,low,3065,Yes,very_high,one,best,4
+36,No,Non-Travel,masters_degree,Life Sciences,low,very_high,one,Laboratory Technician,meduim,2810,No,meduim,zero,better,5
+34,No,Travel_Rarely,bachelors_degree,Marketing,low,high,three,Sales Executive,very_high,9888,No,low,zero,good,14
+34,No,Travel_Rarely,masters_degree,Medical,very_high,high,three,Sales Executive,high,8628,No,high,one,good,8
+26,No,Travel_Rarely,bachelors_degree,Medical,high,high,one,Laboratory Technician,low,2867,No,very_high,zero,good,7
+29,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,two,Healthcare Representative,low,5373,No,low,one,good,5
+32,No,Non-Travel,masters_degree,Medical,high,high,two,Healthcare Representative,very_high,6667,No,meduim,one,better,5
+31,No,Travel_Frequently,bachelors_degree,Life Sciences,very_high,low,two,Research Scientist,low,5003,No,meduim,zero,better,10
+28,Yes,Travel_Rarely,bachelors_degree,Technical Degree,high,meduim,one,Laboratory Technician,very_high,2367,No,low,one,good,4
+38,No,Travel_Rarely,bachelors_degree,Life Sciences,low,meduim,one,Sales Representative,low,2858,No,low,zero,good,1
+35,No,Travel_Rarely,masters_degree,Life Sciences,high,high,two,Sales Executive,very_high,5204,Yes,very_high,zero,better,10
+27,No,Travel_Rarely,bachelors_degree,Marketing,very_high,high,two,Sales Executive,very_high,4105,No,low,zero,better,7
+32,No,Travel_Rarely,masters_degree,Life Sciences,very_high,meduim,two,Manufacturing Director,very_high,9679,No,meduim,zero,better,1
+31,Yes,Travel_Frequently,masters_degree,Marketing,low,high,two,Sales Executive,very_high,5617,Yes,high,zero,better,10
+53,Yes,Travel_Rarely,masters_degree,Life Sciences,low,high,three,Sales Executive,low,10448,Yes,meduim,zero,good,2
+54,No,Travel_Rarely,some_college,Life Sciences,low,high,two,Research Scientist,high,2897,No,high,two,good,4
+33,No,Travel_Frequently,some_college,Life Sciences,very_high,high,two,Healthcare Representative,high,5968,No,high,three,better,9
+43,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,three,Healthcare Representative,high,7510,No,meduim,one,better,10
+38,No,Travel_Frequently,masters_degree,Other,very_high,high,one,Human Resources,meduim,2991,Yes,meduim,one,better,6
+55,No,Travel_Rarely,masters_degree,Human Resources,high,very_high,five,Manager,meduim,19636,Yes,low,one,better,10
+31,No,Travel_Rarely,no_college,Medical,very_high,low,one,Laboratory Technician,very_high,1129,Yes,high,three,better,1
+39,No,Travel_Rarely,masters_degree,Marketing,meduim,high,four,Sales Executive,low,13341,No,low,zero,better,20
+42,No,Non-Travel,some_college,Life Sciences,very_high,meduim,two,Research Scientist,high,4332,No,very_high,zero,better,20
+31,No,Non-Travel,bachelors_degree,Medical,high,high,three,Research Director,high,11031,No,high,one,best,11
+54,No,Travel_Rarely,bachelors_degree,Medical,high,high,two,Manufacturing Director,low,4440,Yes,very_high,zero,better,5
+24,No,Travel_Rarely,some_college,Life Sciences,meduim,meduim,two,Healthcare Representative,high,4617,No,meduim,zero,good,4
+23,No,Travel_Rarely,some_college,Other,very_high,high,one,Laboratory Technician,very_high,2647,No,high,zero,best,5
+40,No,Travel_Frequently,bachelors_degree,Technical Degree,very_high,high,two,Laboratory Technician,high,6323,No,low,one,best,10
+40,No,Travel_Rarely,some_college,Marketing,meduim,high,two,Sales Executive,meduim,5677,No,high,one,better,11
+25,No,Travel_Rarely,bachelors_degree,Human Resources,high,high,one,Human Resources,meduim,2187,No,high,zero,better,2
+30,No,Travel_Rarely,some_college,Medical,very_high,high,one,Laboratory Technician,meduim,3748,No,high,zero,good,12
+25,No,Travel_Rarely,no_college,Other,very_high,high,one,Laboratory Technician,high,3977,Yes,high,one,good,2
+47,No,Travel_Rarely,bachelors_degree,Medical,low,high,three,Healthcare Representative,high,8633,No,meduim,zero,better,17
+33,No,Non-Travel,some_college,Medical,meduim,meduim,one,Laboratory Technician,high,2008,No,high,three,good,1
+38,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,two,Sales Executive,meduim,4440,No,low,two,better,15
+31,No,Travel_Rarely,some_college,Life Sciences,low,high,one,Sales Representative,high,3067,No,high,one,better,2
+38,No,Travel_Frequently,masters_degree,Life Sciences,low,meduim,two,Manufacturing Director,high,5321,No,very_high,one,better,8
+42,No,Travel_Rarely,masters_degree,Life Sciences,very_high,high,two,Research Scientist,low,5410,Yes,high,one,good,4
+41,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,one,Research Scientist,very_high,2782,No,low,one,better,5
+47,No,Non-Travel,no_college,Medical,high,high,three,Research Director,meduim,11957,No,low,two,bad,13
+35,No,Travel_Rarely,masters_degree,Medical,very_high,high,one,Laboratory Technician,high,2660,Yes,high,one,better,2
+22,No,Travel_Rarely,some_college,Life Sciences,very_high,high,one,Research Scientist,high,3375,No,very_high,zero,best,3
+35,No,Travel_Rarely,masters_degree,Medical,meduim,high,two,Research Scientist,high,5098,No,meduim,zero,better,10
+33,No,Travel_Rarely,some_college,Medical,meduim,high,two,Healthcare Representative,very_high,4878,Yes,low,one,better,9
+32,No,Travel_Rarely,masters_degree,Life Sciences,high,meduim,one,Laboratory Technician,meduim,2837,No,high,zero,better,6
+40,No,Travel_Rarely,masters_degree,Life Sciences,low,high,one,Laboratory Technician,very_high,2406,No,high,two,good,1
+32,No,Travel_Rarely,masters_degree,Medical,meduim,meduim,one,Sales Representative,meduim,2269,No,meduim,one,better,2
+39,No,Travel_Rarely,no_college,Life Sciences,low,high,two,Research Scientist,very_high,4108,No,low,zero,better,7
+38,No,Travel_Rarely,bachelors_degree,Medical,meduim,low,three,Research Director,high,13206,No,low,one,better,18
+32,No,Travel_Rarely,masters_degree,Marketing,high,high,three,Sales Executive,very_high,10422,No,high,two,better,14
+37,No,Travel_Rarely,bachelors_degree,Life Sciences,high,very_high,three,Research Director,very_high,13744,Yes,low,one,better,16
+25,No,Travel_Rarely,some_college,Other,low,high,two,Sales Executive,high,4907,Yes,meduim,one,good,5
+52,No,Non-Travel,masters_degree,Life Sciences,low,high,one,Sales Representative,very_high,3482,No,meduim,two,good,9
+44,No,Travel_Rarely,bachelors_degree,Medical,meduim,high,one,Research Scientist,very_high,2436,Yes,high,zero,better,4
+21,No,Travel_Rarely,no_college,Medical,high,high,one,Sales Representative,low,2380,Yes,very_high,zero,better,2
+39,No,Non-Travel,bachelors_degree,Life Sciences,very_high,high,five,Manager,very_high,19431,No,high,zero,good,6
+23,Yes,Travel_Frequently,bachelors_degree,Marketing,very_high,high,one,Sales Representative,low,1790,No,low,one,good,1
+36,No,Travel_Rarely,bachelors_degree,Medical,low,meduim,three,Sales Executive,very_high,7644,No,high,two,better,9
+36,No,Travel_Frequently,some_college,Life Sciences,very_high,high,two,Manufacturing Director,meduim,5131,No,meduim,three,better,4
+56,No,Non-Travel,masters_degree,Life Sciences,high,high,two,Healthcare Representative,high,6306,No,low,one,good,13
+29,Yes,Travel_Rarely,masters_degree,Medical,low,high,one,Research Scientist,very_high,4787,Yes,meduim,three,best,2
+42,No,Travel_Rarely,bachelors_degree,Life Sciences,low,high,five,Manager,high,18880,No,low,zero,good,22
+56,Yes,Travel_Rarely,some_college,Technical Degree,very_high,high,one,Laboratory Technician,high,2339,No,very_high,one,bad,10
+41,No,Travel_Rarely,masters_degree,Life Sciences,low,meduim,four,Manufacturing Director,meduim,13570,No,high,one,better,20
+34,No,Travel_Rarely,bachelors_degree,Marketing,very_high,meduim,two,Sales Executive,high,6712,No,very_high,two,better,8
+36,No,Non-Travel,masters_degree,Marketing,very_high,low,two,Sales Executive,very_high,5406,No,low,one,good,15
+41,No,Travel_Rarely,bachelors_degree,Life Sciences,high,meduim,two,Sales Executive,meduim,8938,No,high,one,better,5
+32,No,Travel_Rarely,bachelors_degree,Technical Degree,very_high,high,one,Research Scientist,low,2439,No,very_high,zero,better,4
+35,No,Travel_Rarely,masters_degree,Life Sciences,high,high,three,Human Resources,very_high,8837,Yes,high,zero,better,9
+38,No,Travel_Rarely,some_college,Life Sciences,low,high,two,Sales Executive,very_high,5343,No,high,one,better,10
+50,Yes,Travel_Frequently,masters_degree,Life Sciences,meduim,high,two,Sales Executive,high,6728,No,very_high,two,better,6
+36,No,Travel_Rarely,masters_degree,Marketing,meduim,meduim,two,Sales Executive,very_high,6652,No,low,one,good,6
+45,No,Travel_Rarely,bachelors_degree,Life Sciences,very_high,high,two,Sales Executive,high,4850,No,high,zero,better,5
+40,No,Travel_Rarely,masters_degree,Life Sciences,high,meduim,one,Research Scientist,high,2809,No,very_high,zero,better,2
+35,No,Travel_Frequently,masters_degree,Life Sciences,high,high,two,Healthcare Representative,high,5689,Yes,very_high,two,best,10
+40,No,Travel_Rarely,masters_degree,Medical,high,high,one,Research Scientist,high,2001,No,meduim,three,better,5
+35,No,Travel_Rarely,masters_degree,Life Sciences,high,low,one,Research Scientist,very_high,2977,No,very_high,one,better,4
+29,No,Travel_Rarely,some_college,Other,very_high,meduim,two,Laboratory Technician,meduim,4025,Yes,low,one,better,4
+29,No,Travel_Rarely,masters_degree,Medical,very_high,meduim,one,Research Scientist,low,3785,No,meduim,zero,bad,5
+50,Yes,Travel_Rarely,bachelors_degree,Marketing,very_high,meduim,three,Sales Executive,low,10854,Yes,meduim,one,better,3
+39,No,Travel_Rarely,no_college,Marketing,meduim,meduim,four,Sales Executive,very_high,12031,No,low,one,good,20
+31,No,Non-Travel,bachelors_degree,Medical,meduim,high,two,Manufacturing Director,low,9936,No,meduim,zero,better,9
+26,No,Travel_Rarely,bachelors_degree,Other,very_high,meduim,one,Sales Representative,high,2966,No,very_high,zero,better,4
+36,No,Travel_Frequently,some_college,Medical,high,very_high,two,Laboratory Technician,very_high,2571,No,high,one,better,5
+39,No,Travel_Rarely,no_college,Medical,very_high,meduim,three,Healthcare Representative,low,9991,No,low,one,better,7
+27,No,Travel_Rarely,bachelors_degree,Life Sciences,meduim,very_high,two,Manufacturing Director,meduim,6142,Yes,meduim,one,better,6
+49,No,Travel_Frequently,bachelors_degree,Medical,very_high,meduim,two,Sales Executive,meduim,5390,No,very_high,zero,good,9
+34,No,Travel_Rarely,bachelors_degree,Medical,meduim,very_high,two,Laboratory Technician,high,4404,No,low,zero,best,4
